@@ -174,22 +174,35 @@
                             </div>
                         </div>
 	                </div>
-	                <div class="row">
-					    <div class="col-md-3 col-sm-6 col-lg-offset-5">
-						    <div class="service-item">
-							    <a target="_top" href="spgs/" >
+	                <div class="col-md-3 col-sm-6">
+					    <div class="service-item">
+						    <a target="_top" href="spss/" >
 
-                                <span class="fa-stack fa-4x">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-barcode fa-stack-1x text-primary"></i>
-                            </span>
-							    <h4>
-								    <strong>SP GISPO SCAN</strong>
-							    </h4>
-							    <p>Helping the school host their sport event by speeding up the
-								    contestant registration process with a Bar Code Scanner</p>
-								    </a>
-							    </div>
+                            <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-graduation-cap fa-stack-1x text-primary"></i>
+                        </span>
+						    <h4>
+							    <strong>SP School Schedule</strong>
+						    </h4>
+						    <p>Ever wantet to know when your school starts? Wonder no more! Here comes the School Schedule.</p>
+							    </a>
+						    </div>
+					    </div>
+	                <div class="col-md-3 col-sm-6">
+					    <div class="service-item">
+						    <a target="_top" href="spgs/" >
+
+                            <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-barcode fa-stack-1x text-primary"></i>
+                        </span>
+						    <h4>
+							    <strong>SP GISPO SCAN</strong>
+						    </h4>
+						    <p>Helping the school host their sport event by speeding up the
+							    contestant registration process with a Bar Code Scanner</p>
+							    </a>
 						    </div>
 					    </div>
 				    </div>
