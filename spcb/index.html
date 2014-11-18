@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>SPCB - Steampilot Chess Board</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Javascript Tutoriala">
+	<meta name="author" content="Steampilot">
+
+	<!-- Le styles -->
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<style>
+		body {
+			padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+		}
+	</style>
+	<link href="css/bootstrap-responsive.css" rel="stylesheet">
+	<link href="css/chess.css" rel="stylesheet">
+
+	<!-- Fav and touch icons -->
+
+	<link rel="apple-touch-icon-precomposed" href="ico/favicon.ico">
+	<link rel="shortcut icon" href="ico/favicon.png">
+</head>
+
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container">
+			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="brand" href="#">SPCB - Steampilot Chess Board</a>
+			<div class="nav-collapse collapse">
+				<ul class="nav">
+					<li class="active"><a href="/">Home</a></li>
+					<li><a href="#about">About</a></li>
+					<li><a href="#contact">Contact</a></li>
+				</ul>
+			</div><!--/.nav-collapse -->
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div>
+		<h1>SPCB - Steampilot Chess Board</h1>
+		<p>An excursion in css</p>
+	</div>
+	<div>
+		<table id="chess_board" cellpadding="0" cellspacing="0">
+			<tbody>
+			<tr>
+				<th></th>
+				<th>A</th>
+				<th>B</th>
+				<th>C</th>
+				<th>D</th>
+				<th>E</th>
+				<th>F</th>
+				<th>G</th>
+				<th>H</th>
+				<th></th>
+			</tr>
+			<tr>
+				<th>8</th>
+				<td id="A8"><a href="#" data-tip="Black Rook" class="rook black">&#9820;</a></td>
+				<td id="B8"><a href="#" data-tip="Black Knight" class="knight black">&#9822;</a></td>
+				<td id="C8"><a href="#" data-tip="Black Bishop" class="bishop black">&#9821;</a></td>
+				<td id="D8"><a href="#" data-tip="Black King" class="king black">&#9819;</a></td>
+				<td id="E8"><a href="#" data-tip="Black Queen" class="queen black">&#9818;</a></td>
+				<td id="F8"><a href="#" data-tip="Black Bishop" class="bishop black">&#9821;</a></td>
+				<td id="G8"><a href="#" data-tip="Black Knight" class="knight black">&#9822;</a></td>
+				<td id="H8"><a href="#" data-tip="Black Rook" class="rook black">&#9820;</a></td>
+				<th>8</th>
+			</tr>
+			<tr>
+				<th>7</th>
+				<td id="A7"><a href="#" data-tip="Black Pawn" class="pawn black">&#9823;</a></td>
+				<td id="B7"><a href="#" data-tip="Black Pawn" class="pawn black">&#9823;</a></td>
+				<td id="C7"><a href="#" data-tip="Black Pawn" class="pawn black">&#9823;</a></td>
+				<td id="D7"><a href="#" data-tip="Black Pawn" class="pawn black">&#9823;</a></td>
+				<td id="E7"><a href="#" data-tip="Black Pawn" class="pawn black">&#9823;</a></td>
+				<td id="F7"><a href="#" data-tip="Black Pawn" class="pawn black">&#9823;</a></td>
+				<td id="G7"><a href="#" data-tip="Black Pawn" class="pawn black">&#9823;</a></td>
+				<td id="H7"><a href="#" data-tip="Black Pawn" class="pawn black">&#9823;</a></td>
+				<th>7</th>
+			</tr>
+			<tr>
+				<th>6</th>
+				<td id="A6"></td>
+				<td id="B6"></td>
+				<td id="C6"></td>
+				<td id="D6"></td>
+				<td id="E6"></td>
+				<td id="F6"></td>
+				<td id="G6"></td>
+				<td id="H6"></td>
+				<th>6</th>
+			</tr>
+			<tr>
+				<th>5</th>
+				<td id="A5"></td>
+				<td id="B5"></td>
+				<td id="C5"></td>
+				<td id="D5"></td>
+				<td id="E5"></td>
+				<td id="F5"></td>
+				<td id="G5"></td>
+				<td id="H5"></td>
+				<th>5</th>
+			</tr>
+			<tr>
+				<th>4</th>
+				<td id="A4"></td>
+				<td id="B4"></td>
+				<td id="C4"></td>
+				<td id="D4"></td>
+				<td id="E4"></td>
+				<td id="F4"></td>
+				<td id="G4"></td>
+				<td id="H4"></td>
+				<th>4</th>
+			</tr>
+			<tr>
+				<th>3</th>
+				<td id="A3"></td>
+				<td id="B3"></td>
+				<td id="C3"></td>
+				<td id="D3"></td>
+				<td id="E3"></td>
+				<td id="F3"></td>
+				<td id="G3"></td>
+				<td id="H3"></td>
+				<th>3</th>
+			</tr>
+			<tr>
+				<th>2</th>
+				<td id="A2"><a href="#" data-tip="White Pawn" class="pawn white">&#9817;</a></td>
+				<td id="B2"><a href="#" data-tip="White Pawn" class="pawn white">&#9817;</a></td>
+				<td id="C2"><a href="#" data-tip="White Pawn" class="pawn white">&#9817;</a></td>
+				<td id="D2"><a href="#" data-tip="White Pawn" class="pawn white">&#9817;</a></td>
+				<td id="E2"><a href="#" data-tip="White Pawn" class="pawn white">&#9817;</a></td>
+				<td id="F2"><a href="#" data-tip="White Pawn" class="pawn white">&#9817;</a></td>
+				<td id="G2"><a href="#" data-tip="White Pawn" class="pawn white">&#9817;</a></td>
+				<td id="H2"><a href="#" data-tip="White Pawn" class="pawn white">&#9817;</a></td>
+				<th>2</th>
+			</tr>
+			<tr>
+				<th>1</th>
+				<td id="A1"><a href="#" data-tip="White Rook" class="rook white">&#9814;</a></td>
+				<td id="B1"><a href="#" data-tip="White Knight" class="knight white">&#9816;</a></td>
+				<td id="C1"><a href="#" data-tip="White Bishop" class="bishop white">&#9815;</a></td>
+				<td id="D1"><a href="#" data-tip="White King" class="king white">&#9813;</a></td>
+				<td id="E1"><a href="#" data-tip="White Queen" class="queen white">&#9812;</a></td>
+				<td id="F1"><a href="#" data-tip="White Bishop" class="bishop white">&#9815;</a></td>
+				<td id="G1"><a href="#" data-tip="White Knight" class="knight white">&#9816;</a></td>
+				<td id="H1"><a href="#" data-tip="White Rook" class="rook white">&#9814;</a></td>
+				<th>1</th>
+			</tr>
+			<tr>
+				<th></th>
+				<th>A</th>
+				<th>B</th>
+				<th>C</th>
+				<th>D</th>
+				<th>E</th>
+				<th>F</th>
+				<th>G</th>
+				<th>H</th>
+				<th></th>
+			</tr>
+			</tbody>
+		</table>
+	</div>
+
+
+</div> <!-- /container -->
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="js/bootstrap.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/slotmachine.js"></script>
+</body>
+</html>

@@ -1,0 +1,508 @@
+[08-Sep-2014 20:52:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 78
+[08-Sep-2014 20:52:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 79
+[08-Sep-2014 20:52:37 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:37 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:37 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:37 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:37 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:37 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:37 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 78
+[08-Sep-2014 20:52:37 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 79
+[08-Sep-2014 20:52:40 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:40 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:40 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:40 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:40 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:40 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:40 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 78
+[08-Sep-2014 20:52:40 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 79
+[08-Sep-2014 20:52:42 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:42 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:42 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:42 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:42 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:42 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:52:42 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 78
+[08-Sep-2014 20:52:42 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 79
+[08-Sep-2014 20:52:42 Europe/Berlin] PHP Warning:  imagepng(output/    &lt;title&gt;404 Not Found&lt;/title&gt;_rain.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 81
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 157
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 158
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 159
+[08-Sep-2014 20:52:44 Europe/Berlin] PHP Warning:  imagepng(output/    &lt;title&gt;404 Not Found&lt;/title&gt;_wind.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 161
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 157
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 158
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 159
+[08-Sep-2014 20:57:09 Europe/Berlin] PHP Warning:  imagepng(output/    &lt;title&gt;404 Not Found&lt;/title&gt;_wind.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 161
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 157
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 158
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 159
+[08-Sep-2014 20:57:11 Europe/Berlin] PHP Warning:  imagepng(output/    &lt;title&gt;404 Not Found&lt;/title&gt;_wind.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 161
+[08-Sep-2014 20:57:12 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:12 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:13 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:13 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:13 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:13 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:13 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:13 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 157
+[08-Sep-2014 20:57:13 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 158
+[08-Sep-2014 20:57:13 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 159
+[08-Sep-2014 20:57:16 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:16 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:16 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:16 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:16 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:16 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:16 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:16 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 157
+[08-Sep-2014 20:57:16 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 158
+[08-Sep-2014 20:57:16 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 159
+[08-Sep-2014 20:57:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 149
+[08-Sep-2014 20:57:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 157
+[08-Sep-2014 20:57:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 158
+[08-Sep-2014 20:57:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 159
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 116
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 117
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 116
+[08-Sep-2014 20:57:23 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 117
+[08-Sep-2014 20:57:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 78
+[08-Sep-2014 20:57:33 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 79
+[08-Sep-2014 20:57:49 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:49 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:49 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:49 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:49 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:49 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:49 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 78
+[08-Sep-2014 20:57:49 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 79
+[08-Sep-2014 20:57:55 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:55 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:55 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:55 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:55 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:55 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:55 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 78
+[08-Sep-2014 20:57:55 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 79
+[08-Sep-2014 20:57:57 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:57 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:57 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:57 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:57 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:57 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 20:57:57 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 78
+[08-Sep-2014 20:57:57 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 79
+[08-Sep-2014 20:59:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:59:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:59:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:59:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:59:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 116
+[08-Sep-2014 20:59:20 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 117
+[08-Sep-2014 20:59:58 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:59:58 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:59:58 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:59:58 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 20:59:58 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 116
+[08-Sep-2014 20:59:58 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 117
+[08-Sep-2014 21:00:05 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 21:00:05 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 21:00:05 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 21:00:05 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 99
+[08-Sep-2014 21:00:05 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 116
+[08-Sep-2014 21:00:05 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 117
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 214
+[08-Sep-2014 21:00:08 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 215
+[08-Sep-2014 21:00:15 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 21:00:15 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 21:00:15 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 21:00:15 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 21:00:15 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 21:00:15 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 63
+[08-Sep-2014 21:00:15 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 78
+[08-Sep-2014 21:00:15 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 79
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 214
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 215
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 206
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 207
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 214
+[08-Sep-2014 21:00:18 Europe/Berlin] PHP Warning:  imagettftext(): Could not find/open font in /home/steampil/public_html/demo/spwr/Map.php on line 215
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:28 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:37 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecreatefrompng(image/wind/.png): failed to open stream: No such file or directory in /home/steampil/public_html/demo/spwr/Map.php on line 143
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 146
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 147
+[06-Nov-2014 10:51:41 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/steampil/public_html/demo/spwr/Map.php on line 151

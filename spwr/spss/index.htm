@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Get the current class time table.">
+	<meta name="author" content="Steampilot">
+	<link rel="icon" href="favicon.ico">
+
+	<title>Steampilot School Schedule</title>
+
+	<!-- Bootstrap core CSS -->
+	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+	<link href="assets/css/datepicker3.css" rel="stylesheet">
+	<!-- Custom styles for this template -->
+	<link href="assets/css/jumbotron-narrow.css" rel="stylesheet">
+
+	<script src="assets/js/jquery-2.1.1.min.js"></script>
+	<script src="assets/js/bootstrap-datepicker.js"></script>
+	<script src="assets/js/index.js"></script>
+</head>
+
+<body>
+
+<div class="container">
+	<div class="header">
+		<ul class="nav nav-pills pull-right" role="tablist">
+			<li role="presentation" class="active"><a href="#">Home</a></li>
+			<li role="presentation"><a href="#">About</a></li>
+			<li role="presentation"><a href="#">Contact</a></li>
+		</ul>
+		<h3 class="text-muted">Steampilot School Schedule</h3>
+	</div>
+	<form role="form" name="profession">
+		<div class="form-group">
+			<label class="label profession" for="profession">Professions</label>
+			<select id="profession" class="form-control">
+			</select>
+		</div>
+	</form>
+
+	<form role="form" name="school_class">
+		<div class="form-group">
+			<label for="school_class" class="label school_class">School Class</label>
+			<select id="school_class" class="form-control">
+			</select>
+		</div>
+	</form>
+	<div id="page_control" class="pager">
+		<div class="row">
+			<nav>
+				<ul class="pager">
+					<li class="previous">
+						<button id="previous" type="button" class="btn btn-default btn-lg">
+							<span class="glyphicon glyphicon-step-backward" aria-hidden="true"></span>
+						</button>
+					</li>
+					<li class="form-inline">
+						<div class="input-group">
+							<input type="text" id="datepicker" min="1" max="52" class="form-control datepicker col-xs-3 disabled text-center">
+						</div>
+					</li>
+					<li class="next">
+						<button id="next" type="button" class="btn btn-default btn-lg">
+							<span class="glyphicon glyphicon-step-forward" aria-hidden="true"></span>
+						</button>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+	<div id="not_found" class="panel panel-danger">
+		<div class="panel-heading">
+			<div class="row">
+				<div class="col-sm-6">
+					<h1>No Data Found</h1>
+				</div>
+				<div class="week_controllers col-sm-6">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="board" class="panel panel-info">
+		<div class="panel-heading">
+			<div class="row">
+				<div class="col-sm-6">
+					<h1 id="week_year"></h1>
+				</div>
+				<div class="week_controllers col-sm-6">
+				</div>
+			</div>
+		</div>
+		<div class="panel-body">
+			<div id="lecture_board">This is where the content comes in</div>
+		</div>
+		<div class="panel-footer"></div>
+	</div>
+</div>
+<!-- /container -->
+<script type="text/html" id="select_week_content">
+	<form class="form">
+		<button type="button" class="show_select_week btn btn-default">
+			<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
+		</button>
+		<div class="col-xs-5">
+
+			<select id="select_week" class="form-control input-lg">
+			</select>
+		</div>
+		<div class="col-xs-5 ">
+			<select id="select_year" class="form-control input-lg">
+				<option>2017</option>
+				<option>2016</option>
+				<option>2015</option>
+				<option>2014</option>
+				<option>2013</option>
+				<option>2012</option>
+				<option>2011</option>
+			</select>
+		</div>
+		<button type="button" class="select_date_btn btn btn-default">
+			<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+		</button>
+	</form>
+</script>
+<script type="text/html" id="paginate_weew_content">
+	<div class="col-xs-5 form-group-lg form-horizontal">
+		<button type="button" id="decrease_week" class="select_date_btn btn btn-default">
+			<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+		</button>
+		<button type="button" id="show_select_control" class="select_date_btn btn btn-default">
+			<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+		</button>
+		<button type="button" id="increase_week" class="select_date_btn btn btn-default">
+			<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+		</button>
+	</div>
+</script>
+<script type="text/html" id="board_content">
+			<div class="panel">
+				<div class="panel-heading">
+					<h3 id="week_day">
+					</h3>
+					<small id="date">Datum</small>
+				</div>
+				<div>
+					<table class="table">
+						<thead>
+						<tr>
+							<th>Von</th>
+							<th>Bis</th>
+							<th>Raum</th>
+							<th>Fach</th>
+							<th>Longfach</th>
+							<th>Lehrer</th>
+							<th>Kommentar</th>
+						</tr>
+						</thead>
+						<tbody>
+
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</script>
+
+</body>
+</html>

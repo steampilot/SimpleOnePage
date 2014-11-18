@@ -1,0 +1,96 @@
+[27-Oct-2014 08:29:50 Europe/Berlin] PHP Fatal error:  Call to undefined function Controller\password_verify() in /home/steampil/public_html/demo/spgb/app/Controller/SessionController.php on line 50
+[27-Oct-2014 08:30:34 Europe/Berlin] PHP Fatal error:  Call to undefined function Controller\password_verify() in /home/steampil/public_html/demo/spgb/app/Controller/SessionController.php on line 50
+[27-Oct-2014 08:41:28 Europe/Berlin] PHP Fatal error:  Call to undefined function Controller\password_verify() in /home/steampil/public_html/demo/spgb/app/Controller/SessionController.php on line 50
+[29-Oct-2014 08:14:34 Europe/Berlin] PHP Fatal error:  Call to undefined function Controller\password_verify() in /home/steampil/public_html/demo/spgb/app/Controller/SessionController.php on line 50
+[29-Oct-2014 09:05:11 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php:47
+Stack trace:
+#0 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php(47): PDO->__construct('mysql:host=;dbn...', '', '')
+#1 /home/steampil/public_html/demo/spgb/app/App.php(43): Steampilot\Util\DbConnector->connect('', '', '', '')
+#2 /home/steampil/public_html/demo/spgb/app/Model/Model.php(30): App::getDb()
+#3 /home/steampil/public_html/demo/spgb/app/Model/PostModel.php(25): Model\Model->__construct()
+#4 /home/steampil/public_html/demo/spgb/app/Controller/Controller.php(82): Model\PostModel->__construct()
+#5 /home/steampil/public_html/demo/spgb/app/Controller/PostController.php(40): Controller\Controller->__construct(Array, Array)
+#6 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(106): Controller\PostController->__construct(Array)
+#7 /home/steampil/public_html/de in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php on line 47
+[29-Oct-2014 09:05:41 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php:47
+Stack trace:
+#0 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php(47): PDO->__construct('mysql:host=;dbn...', '', '')
+#1 /home/steampil/public_html/demo/spgb/app/App.php(43): Steampilot\Util\DbConnector->connect('', '', '', '')
+#2 /home/steampil/public_html/demo/spgb/app/Model/Model.php(30): App::getDb()
+#3 /home/steampil/public_html/demo/spgb/app/Model/PostModel.php(25): Model\Model->__construct()
+#4 /home/steampil/public_html/demo/spgb/app/Controller/Controller.php(82): Model\PostModel->__construct()
+#5 /home/steampil/public_html/demo/spgb/app/Controller/PostController.php(40): Controller\Controller->__construct(Array, Array)
+#6 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(106): Controller\PostController->__construct(Array)
+#7 /home/steampil/public_html/de in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php on line 47
+[29-Oct-2014 09:12:24 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection timed out' in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php:47
+Stack trace:
+#0 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php(47): PDO->__construct('mysql:host=172....', 'steampil_guestb...', '~g&PZyzXN(n3')
+#1 /home/steampil/public_html/demo/spgb/app/App.php(43): Steampilot\Util\DbConnector->connect('172.0.0.1', 'steampil_guestb...', 'steampil_guestb...', '~g&PZyzXN(n3')
+#2 /home/steampil/public_html/demo/spgb/app/Model/Model.php(30): App::getDb()
+#3 /home/steampil/public_html/demo/spgb/app/Model/PostModel.php(25): Model\Model->__construct()
+#4 /home/steampil/public_html/demo/spgb/app/Controller/Controller.php(82): Model\PostModel->__construct()
+#5 /home/steampil/public_html/demo/spgb/app/Controller/PostController.php(40): Controller\Controller->__construct(Array, Array)
+#6 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(106): Controller\PostController->__ in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php on line 47
+[29-Oct-2014 09:13:24 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection timed out' in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php:47
+Stack trace:
+#0 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php(47): PDO->__construct('mysql:host=172....', 'steampil_guestb...', '~g&PZyzXN(n3')
+#1 /home/steampil/public_html/demo/spgb/app/App.php(43): Steampilot\Util\DbConnector->connect('172.0.0.1', 'steampil_guestb...', 'steampil_guestb...', '~g&PZyzXN(n3')
+#2 /home/steampil/public_html/demo/spgb/app/Model/Model.php(30): App::getDb()
+#3 /home/steampil/public_html/demo/spgb/app/Model/PostModel.php(25): Model\Model->__construct()
+#4 /home/steampil/public_html/demo/spgb/app/Controller/Controller.php(82): Model\PostModel->__construct()
+#5 /home/steampil/public_html/demo/spgb/app/Controller/PostController.php(40): Controller\Controller->__construct(Array, Array)
+#6 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(106): Controller\PostController->__ in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php on line 47
+[29-Oct-2014 09:14:24 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection timed out' in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php:47
+Stack trace:
+#0 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php(47): PDO->__construct('mysql:host=172....', 'steampil_guestb...', '~g&PZyzXN(n3')
+#1 /home/steampil/public_html/demo/spgb/app/App.php(43): Steampilot\Util\DbConnector->connect('172.0.0.1', 'steampil_guestb...', 'steampil_guestb...', '~g&PZyzXN(n3')
+#2 /home/steampil/public_html/demo/spgb/app/Model/Model.php(30): App::getDb()
+#3 /home/steampil/public_html/demo/spgb/app/Model/PostModel.php(25): Model\Model->__construct()
+#4 /home/steampil/public_html/demo/spgb/app/Controller/Controller.php(82): Model\PostModel->__construct()
+#5 /home/steampil/public_html/demo/spgb/app/Controller/PostController.php(40): Controller\Controller->__construct(Array, Array)
+#6 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(106): Controller\PostController->__ in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php on line 47
+[12-Nov-2014 09:18:53 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'modified = '2014-11-12 09:11:43',
+				WHERE id = '1'' at line 3' in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php:102
+Stack trace:
+#0 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php(102): PDO->exec('UPDATE user SET...')
+#1 /home/steampil/public_html/demo/spgb/app/Model/UserModel.php(157): Steampilot\Util\DbConnector->exec('UPDATE user SET...')
+#2 /home/steampil/public_html/demo/spgb/app/Controller/UserController.php(138): Model\UserModel->update(Array)
+#3 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(111): Controller\UserController->edit()
+#4 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(55): Steampilot\Util\Router->callControllerAction()
+#5 /home/steampil/public_html/demo/spgb/i in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php on line 102
+[12-Nov-2014 09:20:32 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'modified = '2014-11-12 09:11:22',
+				WHERE id = '15'' at line 3' in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php:102
+Stack trace:
+#0 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php(102): PDO->exec('UPDATE user SET...')
+#1 /home/steampil/public_html/demo/spgb/app/Model/UserModel.php(157): Steampilot\Util\DbConnector->exec('UPDATE user SET...')
+#2 /home/steampil/public_html/demo/spgb/app/Controller/UserController.php(138): Model\UserModel->update(Array)
+#3 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(111): Controller\UserController->edit()
+#4 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(55): Steampilot\Util\Router->callControllerAction()
+#5 /home/steampil/public_html/demo/spgb/ in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php on line 102
+[14-Nov-2014 11:24:26 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php:83
+Stack trace:
+#0 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php(83): PDO->query('SELECT id, name...')
+#1 /home/steampil/public_html/demo/spgb/app/Model/PostModel.php(107): Steampilot\Util\DbConnector->query('SELECT id, name...')
+#2 /home/steampil/public_html/demo/spgb/app/Controller/PostController.php(87): Model\PostModel->getAuthor(NULL)
+#3 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(111): Controller\PostController->add()
+#4 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(55): Steampilot\Util\Router->callControllerAction()
+#5 /home/steampil/public_html/demo/spgb/index.php(18): Steampilot\Util\Router->run()
+#6 {main} in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php on line 83
+[14-Nov-2014 11:26:47 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'modified = '2014-11-14 11:11:18',
+				WHERE id = '18'' at line 3' in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php:102
+Stack trace:
+#0 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php(102): PDO->exec('UPDATE user SET...')
+#1 /home/steampil/public_html/demo/spgb/app/Model/UserModel.php(157): Steampilot\Util\DbConnector->exec('UPDATE user SET...')
+#2 /home/steampil/public_html/demo/spgb/app/Controller/UserController.php(138): Model\UserModel->update(Array)
+#3 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(111): Controller\UserController->edit()
+#4 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(55): Steampilot\Util\Router->callControllerAction()
+#5 /home/steampil/public_html/demo/spgb/ in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php on line 102
+[14-Nov-2014 11:30:23 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'modified = '2014-11-14 11:11:59',
+				WHERE id = '18'' at line 3' in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php:102
+Stack trace:
+#0 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php(102): PDO->exec('UPDATE user SET...')
+#1 /home/steampil/public_html/demo/spgb/app/Model/UserModel.php(157): Steampilot\Util\DbConnector->exec('UPDATE user SET...')
+#2 /home/steampil/public_html/demo/spgb/app/Controller/UserController.php(138): Model\UserModel->update(Array)
+#3 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(111): Controller\UserController->edit()
+#4 /home/steampil/public_html/demo/spgb/app/Steampilot/Util/Router.php(55): Steampilot\Util\Router->callControllerAction()
+#5 /home/steampil/public_html/demo/spgb/ in /home/steampil/public_html/demo/spgb/app/Steampilot/Util/DbConnector.php on line 102
