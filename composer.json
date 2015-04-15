@@ -1,0 +1,42 @@
+{
+  "name": "Simple One Page Prototype",
+  "description": "A Project to incorporate modern web technologies",
+  "license": "MIT",
+  "homepage": "https://github.com/steampilot/SimpleOnePage",
+  "keywords": [
+    "One Page",
+    "Infinite Scrolling",
+    "Parallax",
+    "Responsive"
+  ],
+  "authors": [
+    {
+      "name": "Jérôme Röthlisberger",
+      "email": "info@steampilot.ch",
+      "homepage": "http://www.steampilot.ch/demo/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "info@steampilot.ch",
+    "issues": "https://github.com/steampilot/SimpleOnePage/issues",
+    "source": "https://github.com/steampilot/SimpleOnePage"
+  },
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.38",
+    "squizlabs/php_codesniffer": "2.1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Steampilot\\SimpleOnePage\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Steampilot\\SimpleOnePage\\Tests\\": "tests"
+    }
+  }
+}
