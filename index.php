@@ -1,3 +1,8 @@
+<?php
+define("__APP__", __DIR__);
+$randomBannerDir = "assets/img/banner";
+require_once 'src/RandomPicture.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,6 +36,7 @@
 <body>
 
 <?php require_once 'src/index.php'; ?>
+
 
 <!-- jQuery -->
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>

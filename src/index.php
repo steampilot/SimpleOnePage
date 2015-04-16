@@ -32,7 +32,7 @@
 
     <div id="banner" class="text-vertical-center parallax-container"
          data-parallax="scroll"
-         data-bleed="10" data-image-src="assets/img/b17-1.jpg"
+         data-bleed="10" data-image-src="<?=$picture_url;?>"
          data-natural-width="1400"
          data-natural-height="900">
     </div>
@@ -48,9 +48,31 @@
 <section id="about" class="about">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 text-center">
+            <div class="col-lg-4 text-left">
                 <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
-                <p class="lead">This theme features some wonderful photography courtesy of <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
+                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+            </div>
+            <div class="col-lg-8 text-left">
+                <div>
+                    <h2>Best <strong>Services</strong></h2>
+                    <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+                        tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+                        accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+                        est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                        diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+                        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+                        takimata sanctus est Lorem ipsum dolor sit amet.
+                    </p>
+                    <a href="#" class="btn btn-dark">Learn More</a>
+
+                </div>
+                <div>
+                    <h2>Verified <strong>Dummy</strong></h2>
+                    <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+                        tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+                        accusam et justo duo dolores et ea rebum.
+                        <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
+                </div>
             </div>
         </div>
         <!-- /.row -->
@@ -133,7 +155,7 @@
 <aside class="callout">
     <div id="callout" class="text-vertical-center parallax-container"
          data-parallax="scroll"
-         data-bleed="10" data-image-src="assets/img/b17-1.jpg"
+         data-bleed="10" data-image-src="assets/img/banner/b17-1.jpg"
          data-natural-width="1400"
          data-natural-height="900">
         <h1>Vertically Centered Text</h1>
