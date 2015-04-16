@@ -1,10 +1,47 @@
-#banner {
-    width: 60%;
-    height: 50%;
+.container{
+
 }
+#top {
+    margin: 0;
+    padding: 0;
+}
+
 #callout {
     width: 100%;
-    height: 500px;
+    height: 400px;
+
+}
+#banner {
+    overflow: hidden;
+
+    width: 80%;
+    height: 300px;
+}
+#start {
+    background-color: #a5a5a5;
+    margin: 0;
+    height: inherit;
+    padding: 10px;
+
+}
+#business {
+    background-color: #337ab7;
+    min-height: 450px;
+    margin: 0;
+    padding: 10px;
+    color: #ffffff;
+
+}
+#sketch, #design, #product p{ font-size: smaller;
+}
+#news {
+    padding: 0;
+    margin: 0;
+}
+#best {
+    background-color: #ec971f;
+    margin: 0;
+    padding: 10px;
 }
 html,
 body {
@@ -164,7 +201,7 @@ hr.small {
 /* About */
 
 .about {
-    padding: 50px 0;
+    /*padding: 50px 0;*/
 }
 
 /* Services */

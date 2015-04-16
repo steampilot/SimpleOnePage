@@ -27,59 +27,73 @@
 </nav>
 
 <!-- Header -->
+<div class="container">
+<div class="row">
+    <header id="top" class="header parallax-container"
+            data-parallax="scroll"
+            data-image-src="<?= $picture_url; ?>">
 
-<header id="top" class="header">
+        <div id="start" class=" col-lg-4 col-md-4 pull-right  text-vertical-center">
+            <h1>Start Bootstrap</h1>
 
-    <div id="banner" class="text-vertical-center parallax-container"
-         data-parallax="scroll"
-         data-bleed="10" data-image-src="<?=$picture_url;?>"
-         data-natural-width="1400"
-         data-natural-height="900">
-    </div>
-    <div class="col-lg-8 text-vertical-center">
-        <h1>Start Bootstrap</h1>
-        <h3>Free Bootstrap Themes &amp; Templates</h3>
-        <br>
-        <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
-    </div>
-</header>
+            <h3>Free Bootstrap Themes &amp; Templates</h3>
+            <br>
+            <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
+        </div>
+    </header>
+</div>
+
 
 <!-- About -->
 <section id="about" class="about">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4 text-left">
-                <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        <div class="row parallax-container"
+             data-parallax="scroll"
+             data-image-src="<?= $picture_url; ?>">
+            <div id="business" class="col-lg-4 col-md-6 col-sm-8  col-xs-10 pull-left text-left">
+                <article id="sketch">
+                    <h2>Drawing <strong>Sketch</strong></h2>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                        sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                        sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                </article>
+                <article id="design">
+                    <h2>Making <strong>Design</strong></h2>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                        sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                        sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
+                </article>
+                <article id="product">
+                    <h2>Developing <strong>Product</strong></h2>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                        sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                        sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
+                </article>
+
             </div>
-            <div class="col-lg-8 text-left">
-                <div>
+            <aside id="news" class="col-lg-8 col-md-6 col-sm-8 col-xs-10 pull-right text-left">
+                <div id="best">
                     <h2>Best <strong>Services</strong></h2>
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
                         tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
                         accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
-                        est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                        diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-                        takimata sanctus est Lorem ipsum dolor sit amet.
+                        est Lorem ipsum dolor sit amet.
                     </p>
                     <a href="#" class="btn btn-dark">Learn More</a>
 
                 </div>
-                <div>
+                <div id="verivied_article">
                     <h2>Verified <strong>Dummy</strong></h2>
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
                         tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
                         accusam et justo duo dolores et ea rebum.
                         <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
                 </div>
-            </div>
+            </aside>
         </div>
         <!-- /.row -->
-    </div>
-    <!-- /.container -->
-</section>
 
+</section>
+</div <!--container-->>
 <!-- Services -->
 <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
 <section id="services" class="services bg-primary">
@@ -155,9 +169,9 @@
 <aside class="callout">
     <div id="callout" class="text-vertical-center parallax-container"
          data-parallax="scroll"
-         data-bleed="10" data-image-src="assets/img/banner/b17-1.jpg"
-         data-natural-width="1400"
-         data-natural-height="900">
+         data-bleed="0" data-image-src="assets/img/banner/b17-1.jpg"
+         data-natural-width="650"
+         data-natural-height="366">
         <h1>Vertically Centered Text</h1>
     </div>
 </aside>
