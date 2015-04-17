@@ -2,6 +2,8 @@
  * Created by jerome.roethlisberge on 16.04.2015.
  */
 
+
+$(document).ready(function () {
     $("#menu-close").click(function (e) {
         e.preventDefault();
         $("#sidebar-wrapper").toggleClass("active");
@@ -26,3 +28,7 @@
             }
         });
     });
+
+});
+
+

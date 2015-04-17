@@ -49,28 +49,57 @@
         <div class="row parallax-container"
              data-parallax="scroll"
              data-image-src="<?= $picture_url; ?>">
-            <div id="business" class="col-lg-4 col-md-6 col-sm-8  col-xs-10 pull-left text-left">
+            <div id="business" class="col-lg-4 col-md-6 col-sm-10  col-xs-12 pull-left text-left">
                 <article id="sketch">
-                    <h2>Drawing <strong>Sketch</strong></h2>
+                    <h2>
+                        <span class="fa-stack fa-1x">
+                        <i class="fa fa-square fa-stack-2x"></i>
+                        <i class="fa fa-shield fa-stack-1x text-primary"></i>
+                        </span>
+                        Drawing
+                        <strong>
+                            Sketch
+                        </strong>
+                    </h2>
                     <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                         sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
                         sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
                 </article>
                 <article id="design">
-                    <h2>Making <strong>Design</strong></h2>
+                    <h2>
+                        <span class="fa-stack fa-1x">
+                        <i class="fa fa-square fa-stack-2x"></i>
+                        <i class="fa fa-paint-brush fa-stack-1x text-primary"></i>
+                        </span>
+                        Making
+                        <strong>
+                            Design
+                        </strong>
+                    </h2>
                     <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                         sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                        sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
+                        sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                    </p>
                 </article>
-                <article id="product">
-                    <h2>Developing <strong>Product</strong></h2>
+                <h2>
+                        <span class="fa-stack fa-1x">
+                        <i class="fa fa-square fa-stack-2x"></i>
+                        <i class="fa fa-file-code-o fa-stack-1x text-primary"></i>
+                        </span>
+                    Developing
+                    <strong>
+                        Product
+                    </strong>
+                </h2>
+
                     <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                         sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                        sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
+                        sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                    </p>
                 </article>
 
             </div>
-            <aside id="news" class="col-lg-8 col-md-6 col-sm-8 col-xs-10 pull-right text-left">
+            <aside id="news" class="col-lg-8 col-md-6 col-sm-8 col-xs-12 pull-right text-left">
                 <div id="best">
                     <h2>Best <strong>Services</strong></h2>
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
@@ -81,11 +110,14 @@
                     <a href="#" class="btn btn-dark">Learn More</a>
 
                 </div>
-                <div id="verivied_article">
-                    <h2>Verified <strong>Dummy</strong></h2>
-                    <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-                        tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
-                        accusam et justo duo dolores et ea rebum.
+                <div id="verified" class="col-lg-6">
+                    <h2>Verified <strong>Partner</strong></h2>
+                    <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                        <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
+                </div>
+                <div id="verified" class="col-lg-3 pull-right">
+                    <h2>Regional <strong>Aproach</strong></h2>
+                    <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                         <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
                 </div>
             </aside>
@@ -93,24 +125,24 @@
         <!-- /.row -->
 
 </section>
-</div <!--container-->>
+</div>
 <!-- Services -->
 <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-<section id="services" class="services bg-primary">
+<section id="partner" class="partner bg-primary">
     <div class="container">
         <div class="row text-center">
             <div class="col-lg-10 col-lg-offset-1">
-                <h2>Our Services</h2>
+                <h2>Our Partners and Clients</h2>
                 <hr class="small">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="service-item">
                                 <span class="fa-stack fa-4x">
-                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-square fa-stack-2x"></i>
                                 <i class="fa fa-cloud fa-stack-1x text-primary"></i>
                             </span>
                             <h4>
-                                <strong>Service Name</strong>
+                                <strong>Partner Name</strong>
                             </h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                             <a href="#" class="btn btn-light">Learn More</a>
@@ -119,11 +151,11 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="service-item">
                                 <span class="fa-stack fa-4x">
-                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-square fa-stack-2x"></i>
                                 <i class="fa fa-compass fa-stack-1x text-primary"></i>
                             </span>
                             <h4>
-                                <strong>Service Name</strong>
+                                <strong>Client Name</strong>
                             </h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                             <a href="#" class="btn btn-light">Learn More</a>
@@ -132,11 +164,11 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="service-item">
                                 <span class="fa-stack fa-4x">
-                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-square fa-stack-2x"></i>
                                 <i class="fa fa-flask fa-stack-1x text-primary"></i>
                             </span>
                             <h4>
-                                <strong>Service Name</strong>
+                                <strong>Client Name</strong>
                             </h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                             <a href="#" class="btn btn-light">Learn More</a>
@@ -145,9 +177,9 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="service-item">
                                 <span class="fa-stack fa-4x">
-                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-square fa-stack-2x"></i>
                                 <i class="fa fa-shield fa-stack-1x text-primary"></i>
-                            </span>
+                                </span>
                             <h4>
                                 <strong>Service Name</strong>
                             </h4>
@@ -265,13 +297,37 @@
 </aside>
 
 <!-- Map -->
-<section id="contact" class="map">
-    <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
-    <br />
-    <small>
-        <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
-    </small>
-    </iframe>
+<section id="contact" class="">
+    <div class="container">
+        <div class="row parallax-container"
+             data-parallax="scroll"
+             data-image-src="assets/img/map.jpg">
+            <div id="map" class="col-lg-8 col-md-8 col-xs-4 ">
+                <div id="map_canvas" class="Flexible-container">
+                </div>
+                <div id="map_button"><a href="#gogogoogle" class="btn btn-dark btn-lg">Open Map</a></div>
+            </div>
+            <address id="address" class="col-lg-4 col-md-4 col-xs-8 text-center pull-right text-info">
+                <div class="address">
+                                <span class="fa-stack fa-4x">
+                                <i class="fa fa-square fa-stack-2x"></i>
+                                <i class="fa fa-compass fa-stack-1x text-primary"></i>
+                            </span>
+                    <h4>
+                        <strong>Contact</strong>
+                    </h4>
+                    <p><strong>Company Name</strong>
+                    Streetname Nr#</br>
+                        PO Boxnumber</br>
+                        Cityname</br>
+                        Countryname
+                    </p>
+
+                    <a href="#" class="btn btn-light">Learn More</a>
+                </div>
+            </address>
+        </div>
+    </div>
 </section>
 
 <!-- Footer -->

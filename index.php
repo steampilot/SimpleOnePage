@@ -36,44 +36,23 @@ require_once 'src/RandomPicture.php';
 <body>
 
 <?php require_once 'src/index.php'; ?>
+<?php //require_once 'src/map.html'; ?>
 
 
 <!-- jQuery -->
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-
+<script src="assets/js/stylish-onepage.js" type="text/javascript"></script>
 <!-- Paralax Javascript Library -->
 <script src="assets/js/parallax.min.js"></script>
+
+<!-- Google Maps Api -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyA3V-MjTcpCVrHbrCkidYGz03GIftZ7QmU&sensor=false"></script>
+<script type="text/javascript" src="assets/js/google-maps-api.js"></script>
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <!-- Custom Theme JavaScript -->
-<script>
-    // Closes the sidebar menu
-    $("#menu-close").click(function(e) {
-        e.preventDefault();
-        $("#sidebar-wrapper").toggleClass("active");
-    });
-    // Opens the sidebar menu
-    $("#menu-toggle").click(function(e) {
-        e.preventDefault();
-        $("#sidebar-wrapper").toggleClass("active");
-    });
-    // Scrolls to the selected menu item on the page
-    $(function() {
-        $('a[href*=#]:not([href=#])').click(function() {
-            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
-                var target = $(this.hash);
-                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-                if (target.length) {
-                    $('html,body').animate({
-                        scrollTop: target.offset().top
-                    }, 1000);
-                    return false;
-                }
-            }
-        });
-    });
-</script>
+
 </body>
 </html>
