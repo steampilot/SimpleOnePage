@@ -15,10 +15,10 @@
             <a href="#about" onclick = $("#menu-close").click(); >About</a>
         </li>
         <li>
-            <a href="#services" onclick = $("#menu-close").click(); >Services</a>
+            <a href="#partner" onclick = $("#menu-close").click(); >Partner</a>
         </li>
         <li>
-            <a href="#portfolio" onclick = $("#menu-close").click(); >Portfolio</a>
+            <a href="#impressions" onclick = $("#menu-close").click(); >Impressions</a>
         </li>
         <li>
             <a href="#contact" onclick = $("#menu-close").click(); >Contact</a>
@@ -31,7 +31,7 @@
 <div class="row">
     <header id="top" class="header parallax-container"
             data-parallax="scroll"
-            data-image-src="<?= $picture_url; ?>">
+            data-image-src="<?= getRandomBanner(); ?>">
 
         <div id="start" class=" col-lg-4 col-md-4 pull-right  text-vertical-center">
             <h1>Start Bootstrap</h1>
@@ -48,7 +48,7 @@
 <section id="about" class="about">
         <div class="row parallax-container"
              data-parallax="scroll"
-             data-image-src="<?= $picture_url; ?>">
+             data-image-src="<?= getRandomBanner(); ?>">
             <div id="business" class="col-lg-4 col-md-6 col-sm-10  col-xs-12 pull-left text-left">
                 <article id="sketch">
                     <h2>
@@ -99,7 +99,7 @@
                 </article>
 
             </div>
-            <aside id="news" class="col-lg-8 col-md-6 col-sm-8 col-xs-12 pull-right text-left">
+            <aside id="news" class="col-lg-6 col-md-6 col-sm-8 col-xs-12 pull-right text-left">
                 <div id="best">
                     <h2>Best <strong>Services</strong></h2>
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
@@ -115,7 +115,7 @@
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                         <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
                 </div>
-                <div id="verified" class="col-lg-3 col-md-6 col-sm-8 col-xs-12 pull-left">
+                <div id="verified" class="col-lg-3 col-md-6 col-sm-8 col-xs-12 pull-right">
                     <h2>Regional <strong>Aproach</strong></h2>
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                         <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
@@ -201,7 +201,7 @@
 <aside class="callout">
     <div id="callout" class="text-vertical-center parallax-container"
          data-parallax="scroll"
-         data-bleed="0" data-image-src="assets/img/banner/b17-1.jpg"
+         data-bleed="0" data-image-src="assets/img/impressions/coffee_drop.jpg"
          data-natural-width="650"
          data-natural-height="366">
         <h1>Come and get your coffee</h1>
@@ -209,7 +209,7 @@
 </aside>
 
 <!-- Portfolio -->
-<section id="portfolio" class="portfolio">
+<section id="impressions" class="portfolio">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-center">
@@ -218,27 +218,118 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-item">
-                            <a href="assets/img/stock/stock001.jpg" target="_blank"><!--
-                                <picture>
-                                    <source media="(min-width: 64em)" src="assets/img/stock/max/stock001.jpg">
-                                    <source media="(min-width: 37.5em)" src="assets/img/stock/mid/stock001.jpg" >
-                                    <source src="assets/img/stock/min/stock001.jpg" >
-                                    <img class="img-portfolio img-responsive" src="assets/img/stock/stock001.jpg" alt="original">
-                                    <p>Accessible text.</p>
-                                </picture>-->
-                                <img class="img-portfolio img-responsive" srcset="assets/img/stock/max/stock001.jpg 1800w,
-                                             assets/img/stock/mid/stock002.jpg  800w,
-                                             assets/img/stock/min/stock003.jpg  300w"
+                            <a href="assets/img/impressions/blue_willy.jpg" target="_blank">
+                                <img class="img-portfolio img-responsive"
+                                     srcset="assets/img/impressions/max/blue_willy.jpg 1800w,
+                                             assets/img/impressions/mid/blue_willy.jpg  800w,
+                                             assets/img/impressions/min/blue_willy.jpg  300w"
                                      sizes="1800w, 800w, 300w"
-                                     src="assets/img/stock/stock004.jpg"
-                                     alt="srcset image"
+                                     src="assets/img/impressions/blue_willy.jpg"
+                                     alt="Blue Willy"/>
+                            </a>
+                        </div>
+                        <div class="portfolio-item">
+                            <a href="assets/img/impressions/clothes_rack.jpg" target="_blank">
+                                <img class="img-portfolio img-responsive"
+                                     srcset="assets/img/impressions/max/clothes_rack.jpg 1800w,
+                                             assets/img/impressions/mid/clothes_rack.jpg  800w,
+                                             assets/img/impressions/min/clothes_rack.jpg  300w"
+                                     sizes="1800w, 800w, 300w"
+                                     src="assets/img/impressions/clothes_rack.jpg"
+                                     alt="Clothes Rack"/>
                             </a>
                         </div>
                     </div>
-
+                    <div class="col-md-6">
+                        <div class="portfolio-item">
+                            <a href="assets/img/impressions/nian_cat.jpg" target="_blank">
+                                <img class="img-portfolio img-responsive"
+                                     srcset="assets/img/impressions/max/nian_cat.jpg 1800w,
+                                             assets/img/impressions/mid/nian_cat.jpg  800w,
+                                             assets/img/impressions/min/nian_cat.jpg  300w"
+                                     sizes="1800w, 800w, 300w"
+                                     src="assets/img/impressions/nian_cat.jpg"
+                                     alt="Nian Cat" />
+                            </a>
+                        </div>
+                        <div class="portfolio-item">
+                            <a href="assets/img/impressions/space_invader.jpg" target="_blank">
+                                <img class="img-portfolio img-responsive"
+                                     srcset="assets/img/impressions/max/space_invader.jpg 1800w,
+                                             assets/img/impressions/mid/space_invader.jpg  800w,
+                                             assets/img/impressions/min/space_invader.jpg  300w"
+                                     sizes="1800w, 800w, 300w"
+                                     src="assets/img/impressions/space_invader.jpg"
+                                     alt="Space Invader" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="portfolio-item">
+                            <a href="assets/img/impressions/code_buddha.jpg" target="_blank">
+                                <img class="img-portfolio img-responsive"
+                                     src="assets/img/impressions/code_buddha.jpg"
+                                     alt="Bright Wall"/>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="portfolio-item">
+                            <a href="assets/img/impressions/bright_wall.jpg" target="_blank">
+                                <img class="img-portfolio img-responsive"
+                                     srcset="assets/img/impressions/max/bright_wall.jpg 1800w,
+                                             assets/img/impressions/mid/bright_wall.jpg  800w,
+                                             assets/img/impressions/min/bright_wall.jpg  300w"
+                                     sizes="1800w, 800w, 300w"
+                                     src="assets/img/impressions/bright_wall.jpg"
+                                     alt="Bright Wall"
+                            </a>
+                        </div>
+                        <div class="portfolio-item">
+                            <a href="assets/img/impressions/coffee_drop.jpg" target="_blank">
+                                <img class="img-portfolio img-responsive"
+                                     srcset="assets/img/impressions/max/coffee_drop.jpg 1800w,
+                                             assets/img/impressions/mid/coffee_drop.jpg  800w,
+                                             assets/img/impressions/min/coffee_drop.jpg  300w"
+                                     sizes="1800w, 800w, 300w"
+                                     src="assets/img/impressions/bright_wall.jpg"
+                                     alt="Coffee Drop"
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="portfolio-item">
+                            <a href="assets/img/impressions/sound_beat.jpg" target="_blank">
+                                <img class="img-portfolio img-responsive"
+                                     srcset="assets/img/impressions/max/sound_beat.jpg 1800w,
+                                             assets/img/impressions/mid/sound_beat.jpg  800w,
+                                             assets/img/impressions/min/sound_beat.jpg  300w"
+                                     sizes="1800w, 800w, 300w"
+                                     src="assets/img/impressions/sound_beat.jpg"
+                                     alt="Sound Beat"
+                            </a>
+                        </div>
+                        <div class="portfolio-item">
+                            <a href="assets/img/impressions/system_plant.jpg" target="_blank">
+                                <img class="img-portfolio img-responsive"
+                                     srcset="assets/img/impressions/max/system_plant.jpg 1800w,
+                                             assets/img/impressions/mid/system_plant.jpg  800w,
+                                             assets/img/impressions/min/system_plant.jpg  300w"
+                                     sizes="1800w, 800w, 300w"
+                                     src="assets/img/impressions/system_plant.jpg"
+                                     alt="System Plant"
+                            </a>
+                        </div>
+                    </div>
+                    </div>
                 </div>
                 <!-- /.row (nested) -->
-                <a href="#" class="btn btn-dark">View More Items</a>
+                </div>
+                    <a href="#" class="btn btn-dark">View More Items</a>
             </div>
             <!-- /.col-lg-10 -->
         </div>

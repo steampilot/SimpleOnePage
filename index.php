@@ -1,7 +1,6 @@
 <?php
 define("__APP__", __DIR__);
-$randomBannerDir = "assets/img/banner";
-require_once 'src/RandomPicture.php';
+require_once 'src/RandomBanner.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -36,7 +35,6 @@ require_once 'src/RandomPicture.php';
 <body>
 
 <?php require_once 'src/index.php'; ?>
-<?php //require_once 'src/map.html'; ?>
 
 
 <!-- jQuery -->

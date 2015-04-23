@@ -36,6 +36,9 @@
     display: none;
 
 }
+#impressions {
+
+}
 #callout h1 {
     font-family: 'Lobster', cursive;
     text-transform: capitalize;
@@ -72,7 +75,7 @@
         background-image: url("../img/map.jpg");
     }
 }
-/* For ipad: */
+/* For 17' screen: */
 @media screen and (max-width : 991px){
     #map_canvas {display: none}
     #map_button { display: inherit;}
