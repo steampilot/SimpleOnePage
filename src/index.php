@@ -110,12 +110,12 @@
                     <a href="#" class="btn btn-dark">Learn More</a>
 
                 </div>
-                <div id="verified" class="col-lg-6">
+                <div id="verified" class="col-lg-6 col-md-6 col-sm-8 col-xs-12">
                     <h2>Verified <strong>Partner</strong></h2>
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                         <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
                 </div>
-                <div id="verified" class="col-lg-3 pull-right">
+                <div id="verified" class="col-lg-3 col-md-6 col-sm-8 col-xs-12 pull-left">
                     <h2>Regional <strong>Aproach</strong></h2>
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                         <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
@@ -204,7 +204,7 @@
          data-bleed="0" data-image-src="assets/img/banner/b17-1.jpg"
          data-natural-width="650"
          data-natural-height="366">
-        <h1>Vertically Centered Text</h1>
+        <h1>Come and get your coffee</h1>
     </div>
 </aside>
 
@@ -218,60 +218,24 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portfolio-item">
-                            <a href="#">
-                                <img class="img-portfolio img-responsive" src="assets/img/stock/stock001.jpg">
+                            <a href="assets/img/stock/stock001.jpg" target="_blank"><!--
+                                <picture>
+                                    <source media="(min-width: 64em)" src="assets/img/stock/max/stock001.jpg">
+                                    <source media="(min-width: 37.5em)" src="assets/img/stock/mid/stock001.jpg" >
+                                    <source src="assets/img/stock/min/stock001.jpg" >
+                                    <img class="img-portfolio img-responsive" src="assets/img/stock/stock001.jpg" alt="original">
+                                    <p>Accessible text.</p>
+                                </picture>-->
+                                <img class="img-portfolio img-responsive" srcset="assets/img/stock/max/stock001.jpg 1800w,
+                                             assets/img/stock/mid/stock002.jpg  800w,
+                                             assets/img/stock/min/stock003.jpg  300w"
+                                     sizes="1800w, 800w, 300w"
+                                     src="assets/img/stock/stock004.jpg"
+                                     alt="srcset image"
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6">
-                        <div class="portfolio-item">
-                            <a href="#">
-                                <img class="img-portfolio img-responsive" src="assets/img/stock/stock002.jpg">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="portfolio-item">
-                            <a href="#">
-                                <img class="img-portfolio img-responsive" src="assets/img/stock/stock003.jpg">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="portfolio-item">
-                            <a href="#">
-                                <img class="img-portfolio img-responsive" src="assets/img/stock/stock004.jpg">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="portfolio-item">
-                            <a href="#">
-                                <img class="img-portfolio img-responsive" src="assets/img/stock/stock001.jpg">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="portfolio-item">
-                            <a href="#">
-                                <img class="img-portfolio img-responsive" src="assets/img/stock/stock002.jpg">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="portfolio-item">
-                            <a href="#">
-                                <img class="img-portfolio img-responsive" src="assets/img/stock/stock003.jpg">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="portfolio-item">
-                            <a href="#">
-                                <img class="img-portfolio img-responsive" src="assets/img/stock/stock004.jpg">
-                            </a>
-                        </div>
-                    </div>
+
                 </div>
                 <!-- /.row (nested) -->
                 <a href="#" class="btn btn-dark">View More Items</a>
@@ -295,19 +259,10 @@
         </div>
     </div>
 </aside>
-
 <!-- Map -->
-<section id="contact" class="">
-    <div class="container">
-        <div class="row parallax-container"
-             data-parallax="scroll"
-             data-image-src="assets/img/map.jpg">
-            <div id="map" class="col-lg-8 col-md-8 col-xs-4 ">
-                <div id="map_canvas" class="Flexible-container">
-                </div>
-                <div id="map_button"><a href="#gogogoogle" class="btn btn-dark btn-lg">Open Map</a></div>
-            </div>
-            <address id="address" class="col-lg-4 col-md-4 col-xs-8 text-center pull-right text-info">
+<section id="contact" class="container">
+        <div class="row">
+            <address id="address" class="col-lg-4 col-md-4 col-xs-8  text-center pull-right text-info">
                 <div class="address">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-square fa-stack-2x"></i>
@@ -326,18 +281,22 @@
                     <a href="#" class="btn btn-light">Learn More</a>
                 </div>
             </address>
+            <div id="map" class="col-lg-8 col-md-8 col-xs-4 ">
+                <div id="map_canvas" class="Flexible-container">
+                </div>
+                <div id="map_button"><a href="#gogogoogle" class="btn btn-dark btn-lg">Open Map</a></div>
+            </div>
         </div>
-    </div>
 </section>
 
 <!-- Footer -->
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-lg-10 col-lg-offset-1 text-center">
-                <h4><strong>Start Bootstrap</strong>
+            <div class="col-lg-4 text-center">
+                <h4><strong>Orca Services AG</strong>
                 </h4>
-                <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+                <p>Bahnhofstrasse 11<br></p>
                 <ul class="list-unstyled">
                     <li><i class="fa fa-phone fa-fw"></i> (123) 456-7890</li>
                     <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">name@example.com</a>
