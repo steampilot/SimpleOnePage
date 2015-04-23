@@ -172,7 +172,7 @@
     margin: 0;
     padding: 10px;
     color: white;
-    font-family: 'Oxygen', sans-serif;
+    font-family: '', sans-serif;
 }
 html,
 body {
@@ -181,7 +181,7 @@ body {
 }
 
 body {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .text-vertical-center {

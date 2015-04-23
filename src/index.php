@@ -384,16 +384,17 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 text-center">
+            <div class="col-lg-4 col-md-4 col-sm-6 text-center">
                 <h4><strong>Orca Services AG</strong>
                 </h4>
-                <p>Bahnhofstrasse 11<br></p>
+                <p>Bahnhofstrasse 11<br>4133 Pratteln</p>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-phone fa-fw"></i> (123) 456-7890</li>
-                    <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">name@example.com</a>
+                    <li><i class="fa fa-phone fa-fw"></i>+41 60 205 80 80</li>
+                    <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:info@orca.ch">info@orca.ch</a>
                     </li>
                 </ul>
                 <br>
+                <!--
                 <ul class="list-inline">
                     <li>
                         <a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
@@ -405,8 +406,7 @@
                         <a href="#"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
                     </li>
                 </ul>
-                <hr class="small">
-                <p class="text-muted">Copyright &copy; Your Website 2014</p>
+                -->
             </div>
         </div>
     </div>
