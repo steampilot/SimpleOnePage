@@ -34,9 +34,13 @@
             data-image-src="<?= getRandomBanner(); ?>">
 
         <div id="start" class=" col-lg-4 col-md-4 pull-right  text-vertical-center">
-            <h1>Start Bootstrap</h1>
+            <object width="100%" type="image/svg+xml"
+                    data="assets/img/orca-logo.svg">
+                Your browser does not support SVG
+            </object>
 
-            <h3>Free Bootstrap Themes &amp; Templates</h3>
+
+            <h3>The Web starts with us</h3>
             <br>
             <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
         </div>
