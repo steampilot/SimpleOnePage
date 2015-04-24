@@ -31,10 +31,12 @@ require_once 'src/RandomBanner.php';
 
     <!-- Stylish One Page Theme -->
     <link rel="stylesheet" href="assets/css/stylish-onepage.css">
+    <link rel="stylesheet" href="assets/css/color-pallet.css">
 </head>
 <body>
 
 <?php require_once 'src/index.php'; ?>
+<?php require_once 'src/colortest.php'; ?>
 
 
 <!-- jQuery -->

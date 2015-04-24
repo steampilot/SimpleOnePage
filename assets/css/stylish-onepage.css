@@ -7,7 +7,7 @@
     background-image: url("../img/map.jpg");
 }
 #contact-item {
-    background-color: orange;
+
 }
 .no-float {
     float: none;
@@ -48,7 +48,6 @@
     #map_canvas {display: none;}
     #map_button { display: inherit;}
     #contact {
-        background: orange;
         background-image: "../img/map.jpg";
     }
 }
@@ -59,7 +58,6 @@
     #map_canvas {display: none;}
     #map_button { display: inherit;}
     #contact {
-        background: orange;
         background-image: "../img/map.jpg";
     }
 
@@ -71,7 +69,6 @@
     #map_canvas {display: none;}
     #map_button { display: inherit;}
         #contact {
-        background: orange;
         background-image: url("../img/map.jpg");
     }
 }
@@ -80,14 +77,12 @@
     #map_canvas {display: none}
     #map_button { display: inherit;}
     #contact {
-        background: orange;
         background-image: url("../img/map.jpg");
     }
 }
 /* For Screen: */
 @media screen and (min-width: 991px){
     #contact {
-        background: orange;
         background-image: none;
     }
 
@@ -119,18 +114,16 @@
     height: 300px;
 }
 #start {
-    background-color: #a5a5a5;
+    background-color: #ececec;
     margin: 0;
     height: inherit;
     padding: 10px;
 
 }
 #business {
-    background-color: #337ab7;
     min-height: 450px;
     margin: 0;
     padding: 10px;
-    color: #ffffff;
     font-family: 'Lobster', cursive;
 
 }
@@ -144,14 +137,11 @@
     margin: 0;
 }
 #best {
-    background-color: #ec971f;
     margin: 0;
     padding: 10px;
     font-family: 'Oxygen', sans-serif;
 }
 #verified {
-    background-color: maroon;
-    color: #ffffff;
     margin: 0;
     padding: 10px;
 }
@@ -167,11 +157,9 @@
 
 }
 #address{
-    background-color: #337ab7;
     height: inherit;
     margin: 0;
     padding: 10px;
-    color: white;
     font-family: '', sans-serif;
 }
 html,

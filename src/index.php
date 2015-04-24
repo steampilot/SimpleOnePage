@@ -53,7 +53,7 @@
         <div class="row parallax-container"
              data-parallax="scroll"
              data-image-src="<?= getRandomBanner(); ?>">
-            <div id="business" class="col-lg-4 col-md-6 col-sm-10  col-xs-12 pull-left text-left">
+            <div id="business" class="col-lg-4 col-md-6 col-sm-10  col-xs-12 pull-left text-left spc-primary-0">
                 <article id="sketch">
                     <h2>
                         <span class="fa-stack fa-1x">
@@ -69,7 +69,7 @@
                         sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
                         sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
                 </article>
-                <article id="design">
+                <article id="design" class="">
                     <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
@@ -85,10 +85,11 @@
                         sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
                     </p>
                 </article>
+                <article id="product" class="SP-color-primary-0">
                 <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
-                        <i class="fa fa-file-code-o fa-stack-1x text-primary"></i>
+                        <i class="fa fa-file-code-o fa-stack-1x text-primary "></i>
                         </span>
                     Developing
                     <strong>
@@ -104,7 +105,7 @@
 
             </div>
             <aside id="news" class="col-lg-6 col-md-6 col-sm-8 col-xs-12 pull-right text-left">
-                <div id="best">
+                <div id="best" class="spc-secondary-1-2 spc-inverse">
                     <h2>Best <strong>Services</strong></h2>
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
                         tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
@@ -114,17 +115,18 @@
                     <a href="#" class="btn btn-dark">Learn More</a>
 
                 </div>
-                <div id="verified" class="col-lg-6 col-md-6 col-sm-8 col-xs-12">
+                <div id="verified" class="col-lg-6 col-md-6 col-sm-8 col-xs-12 spc-complement-2 spc-inverse">
                     <h2>Verified <strong>Partner</strong></h2>
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                         <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
                 </div>
-                <div id="verified" class="col-lg-3 col-md-6 col-sm-8 col-xs-12 pull-right">
-                    <h2>Regional <strong>Aproach</strong></h2>
-                    <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                        <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
-                </div>
+
             </aside>
+            <div id="regional" class="col-lg-3 col-md-6 col-sm-8 col-xs-12 pull-left spc-secondary-2-4 spc-inverse">
+                <h2>Regional <strong>Aproach</strong></h2>
+                <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                    <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
+            </div>
         </div>
         <!-- /.row -->
 
@@ -132,12 +134,11 @@
 </div>
 <!-- Services -->
 <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-<section id="partner" class="partner bg-primary">
+<section id="partner" class="partner bg-primary spc-primary-2">
     <div class="container">
         <div class="row text-center">
             <div class="col-lg-10 col-lg-offset-1">
                 <h2>Our Partners and Clients</h2>
-                <hr class="small">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="service-item">
@@ -343,7 +344,7 @@
 </section>
 
 <!-- Call to Action -->
-<aside class="call-to-action bg-primary">
+<aside class="call-to-action bg-primary spc-secondary-2-0">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -355,10 +356,11 @@
     </div>
 </aside>
 <!-- Map -->
-<section id="contact" class="container">
-        <div class="row">
-            <address id="address" class="col-lg-4 col-md-4 col-xs-8  text-center pull-right text-info">
-                <div class="address">
+<section id="contact" class="container ">
+        <div class="row spc-primary-0 spc-inverse">
+            <address id="address" class="col-lg-4 col-md-4 col-xs-8
+                       text-center pull-right spc-primary-4 spc-inverse">
+
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-square fa-stack-2x"></i>
                                 <i class="fa fa-compass fa-stack-1x text-primary"></i>
@@ -374,7 +376,6 @@
                     </p>
 
                     <a href="#" class="btn btn-light">Learn More</a>
-                </div>
             </address>
             <div id="map" class="col-lg-8 col-md-8 col-xs-4 ">
                 <div id="map_canvas" class="Flexible-container">
@@ -397,20 +398,6 @@
                     <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:info@orca.ch">info@orca.ch</a>
                     </li>
                 </ul>
-                <br>
-                <!--
-                <ul class="list-inline">
-                    <li>
-                        <a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
-                    </li>
-                </ul>
-                -->
             </div>
         </div>
     </div>
