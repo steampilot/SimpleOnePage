@@ -7,7 +7,7 @@
     background-image: url("../img/map.jpg");
 }
 #contact-item {
-    background-color: orange;
+    background-color:  #f2d717;
 }
 .no-float {
     float: none;
@@ -48,7 +48,7 @@
     #map_canvas {display: none;}
     #map_button { display: inherit;}
     #contact {
-        background: orange;
+        background: #f2d717;
         background-image: "../img/map.jpg";
     }
 }
@@ -59,7 +59,7 @@
     #map_canvas {display: none;}
     #map_button { display: inherit;}
     #contact {
-        background: orange;
+        background:  #f2d717;
         background-image: "../img/map.jpg";
     }
 
@@ -71,7 +71,7 @@
     #map_canvas {display: none;}
     #map_button { display: inherit;}
         #contact {
-        background: orange;
+        background:  #f2d717;
         background-image: url("../img/map.jpg");
     }
 }
@@ -87,7 +87,7 @@
 /* For Screen: */
 @media screen and (min-width: 991px){
     #contact {
-        background: orange;
+        background:  #f2d717;
         background-image: none;
     }
 
@@ -119,14 +119,14 @@
     height: 300px;
 }
 #start {
-    background-color: #a5a5a5;
+    background-color: #ececec;
     margin: 0;
     height: inherit;
     padding: 10px;
 
 }
 #business {
-    background-color: #337ab7;
+    background-color: #5567f4;
     min-height: 450px;
     margin: 0;
     padding: 10px;
@@ -144,21 +144,37 @@
     margin: 0;
 }
 #best {
-    background-color: #ec971f;
+    background-color: #f2d717;
     margin: 0;
     padding: 10px;
     font-family: 'Oxygen', sans-serif;
 }
 #verified {
-    background-color: maroon;
+    background-color: #96bf26;
     color: #ffffff;
     margin: 0;
     padding: 10px;
 }
+#regional {
 
-
+    color: #ffffff;
+    margin: 0;
+    padding: 10px;
+}
+#partner {
+    background: #f2d717;
+    color: #798c46;
+}
+#partner .text-primary {
+    color: #f2d717;
+}
+#action {
+    background-color: #f2d717;
+    color: #000000;
+}
 #contact{
-
+    background-color: #f2d717;
+    color: #000000;
 }
 #map{
     margin: 0;
@@ -167,12 +183,15 @@
 
 }
 #address{
-    background-color: #337ab7;
+    background-color: #5567f4;
     height: inherit;
     margin: 0;
     padding: 10px;
-    color: white;
+    color: #ffffff;
     font-family: '', sans-serif;
+}
+#address .text-primary {
+    color: #96bf26;
 }
 html,
 body {
@@ -181,9 +200,13 @@ body {
 }
 
 body {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.text-primary {
+    color: #5567f4;
+
+}
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -404,3 +427,4 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+

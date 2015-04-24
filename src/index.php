@@ -119,7 +119,7 @@
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                         <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
                 </div>
-                <div id="verified" class="col-lg-3 col-md-6 col-sm-8 col-xs-12 pull-right">
+                <div id="regional" class="col-lg-3 col-md-6 col-sm-8 col-xs-12 pull-right">
                     <h2>Regional <strong>Aproach</strong></h2>
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                         <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
@@ -143,7 +143,7 @@
                         <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-square fa-stack-2x"></i>
-                                <i class="fa fa-cloud fa-stack-1x text-primary"></i>
+                                <i class="fa fa-cloud  fa-stack-1x text-primary"></i>
                             </span>
                             <h4>
                                 <strong>Partner Name</strong>
@@ -155,8 +155,21 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="service-item">
                                 <span class="fa-stack fa-4x">
-                                <i class="fa fa-square fa-stack-2x"></i>
-                                <i class="fa fa-compass fa-stack-1x text-primary"></i>
+                                <i class="fa fa-square  fa-stack-2x"></i>
+                                <i class="fa fa-compass fa-inverse fa-stack-1x primary"></i>
+                            </span>
+                            <h4>
+                                <strong>Client Name</strong>
+                            </h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <a href="#" class="btn btn-light">Learn More</a>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="service-item">
+                                <span class="fa-stack fa-4x">
+                                <i class="fa fa-square  fa-stack-2x"></i>
+                                <i class="fa fa-flask  fa-inverse fa-stack-1x text-primary"></i>
                             </span>
                             <h4>
                                 <strong>Client Name</strong>
@@ -169,20 +182,7 @@
                         <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-square fa-stack-2x"></i>
-                                <i class="fa fa-flask fa-stack-1x text-primary"></i>
-                            </span>
-                            <h4>
-                                <strong>Client Name</strong>
-                            </h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                            <a href="#" class="btn btn-light">Learn More</a>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="service-item">
-                                <span class="fa-stack fa-4x">
-                                <i class="fa fa-square fa-stack-2x"></i>
-                                <i class="fa fa-shield fa-stack-1x text-primary"></i>
+                                <i class="fa fa-shield fa-inverse fa-stack-1x text-primary"></i>
                                 </span>
                             <h4>
                                 <strong>Service Name</strong>
@@ -343,7 +343,7 @@
 </section>
 
 <!-- Call to Action -->
-<aside class="call-to-action bg-primary">
+<aside id="action" class="call-to-action bg-primary">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
