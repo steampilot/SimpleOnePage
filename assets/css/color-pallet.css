@@ -9,6 +9,13 @@ a {
     color: #000000;
 }
 
+.spc-inverse a {
+    color: #ffffff;
+}
+
+
+
+
 .spc-orca-0 .text-primary {
     color: #F2D717 !important;
 }
