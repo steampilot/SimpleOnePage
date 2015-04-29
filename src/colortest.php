@@ -7,19 +7,58 @@
  */
 
 ?>
+<div class="container" style="background-color: gray" >
+    <?php for ($i = 0; $i <=4; $i++) { ?>
+        <div class="col-lg-3 spc-orca-<?= $i; ?>">
+            <article id="sketch">
+                <h2>
+                        <span class="fa-stack fa-1x">
+                        <i class="fa fa-square fa-stack-2x"></i>
+                        <i class="fa fa-shield fa-stack-1x text-primary"></i>
+                        </span>
+                    spc-orca-<?= $i; ?>
+                    <strong>
+                        regular
+                    </strong>
+                </h2>
 
-<div class="container" style="background-color: gray" >
-    <?php for ($i = 0; $i <=4; $i++) { ?>
-    <div class="col-lg-2 spc-primary-<?=$i; ?>">
+                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                    sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+            </article>
+        </div>
+        <div class="col-lg-3 spc-orca-<?= $i; ?> spc-inverse">
+            <article id="sketch">
+                <h2>
+                        <span class="fa-stack fa-1x">
+                        <i class="fa fa-square fa-stack-2x"></i>
+                        <i class="fa fa-shield fa-stack-1x text-primary"></i>
+                        </span>
+                    spc-orca-<?= $i; ?>
+                    <strong>
+                        inverse
+                    </strong>
+                </h2>
+
+                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                    sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+            </article>
+        </div>
+    <?php } ?>
+</div>
+<div class="container" style="background-color: gray">
+    <?php for ($i = 0; $i <= 4; $i++) { ?>
+        <div class="col-lg-3 spc-primary-<?= $i; ?>">
         <article id="sketch">
             <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-shield fa-stack-1x text-primary"></i>
                         </span>
-                Drawing
+                spc-primary-<?= $i; ?>
                 <strong>
-                    Sketch <?=$i; ?>
+                    regular
                 </strong>
             </h2>
             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
@@ -27,16 +66,16 @@
                 sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
         </article>
     </div>
-    <div class="col-lg-2 spc-primary-<?=$i; ?> spc-inverse">
+        <div class="col-lg-3 spc-primary-<?= $i; ?> spc-inverse">
         <article id="sketch">
             <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-shield fa-stack-1x text-primary"></i>
                         </span>
-                Drawing
+                spc-primary-<?= $i; ?>
                 <strong>
-                    Sketch <?=$i; ?>
+                    inverse
                 </strong>
             </h2>
             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
@@ -48,16 +87,16 @@
 </div>
 <div class="container" style="background-color: gray" >
     <?php for ($i = 0; $i <=4; $i++) { ?>
-    <div class="col-lg-2 spc-secondary-1-<?=$i; ?>">
+        <div class="col-lg-3 spc-secondary-1-<?= $i; ?>">
         <article id="sketch">
             <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-shield fa-stack-1x text-primary"></i>
                         </span>
-                Drawing
+                spc-secondary-1-<?= $i; ?>
                 <strong>
-                    Sketch <?=$i; ?>
+                    regular
                 </strong>
             </h2>
             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
@@ -65,54 +104,16 @@
                 sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
         </article>
     </div>
-    <div class="col-lg-2 spc-secondary-1-<?=$i; ?> spc-inverse">
+        <div class="col-lg-3 spc-secondary-1-<?= $i; ?> spc-inverse">
         <article id="sketch">
             <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-shield fa-stack-1x text-primary"></i>
                         </span>
-                Drawing
+                spc-secondary-1-<?= $i; ?>
                 <strong>
-                    Sketch <?=$i; ?>
-                </strong>
-            </h2>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-        </article>
-    </div>
-   <?php } ?>
-</div>
-<div class="container" style="background-color: gray" >
-    <?php for ($i = 0; $i <=4; $i++) { ?>
-    <div class="col-lg-2 spc-secondary-2-<?=$i; ?>">
-        <article id="sketch">
-            <h2>
-                        <span class="fa-stack fa-1x">
-                        <i class="fa fa-square fa-stack-2x"></i>
-                        <i class="fa fa-shield fa-stack-1x text-primary"></i>
-                        </span>
-                Drawing
-                <strong>
-                    Sketch <?=$i; ?>
-                </strong>
-            </h2>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-        </article>
-    </div>
-    <div class="col-lg-2 spc-secondary-2-<?=$i; ?> spc-inverse">
-        <article id="sketch">
-            <h2>
-                        <span class="fa-stack fa-1x">
-                        <i class="fa fa-square fa-stack-2x"></i>
-                        <i class="fa fa-shield fa-stack-1x text-primary"></i>
-                        </span>
-                Drawing
-                <strong>
-                    Sketch <?=$i; ?>
+                    inverse
                 </strong>
             </h2>
             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
@@ -124,16 +125,16 @@
 </div>
 <div class="container" style="background-color: gray" >
     <?php for ($i = 0; $i <=4; $i++) { ?>
-    <div class="col-lg-2 spc-complement-<?=$i; ?>">
+        <div class="col-lg-3 spc-secondary-2-<?= $i; ?>">
         <article id="sketch">
             <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-shield fa-stack-1x text-primary"></i>
                         </span>
-                Drawing
+                spc-secondary-2-<?= $i; ?>
                 <strong>
-                    Sketch <?=$i; ?>
+                    regular
                 </strong>
             </h2>
             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
@@ -141,16 +142,54 @@
                 sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
         </article>
     </div>
-    <div class="col-lg-2 spc-complement-<?=$i; ?> spc-inverse">
+        <div class="col-lg-3 spc-secondary-2-<?= $i; ?> spc-inverse">
         <article id="sketch">
             <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-shield fa-stack-1x text-primary"></i>
                         </span>
-                Drawing
+                spc-secondary-2-<?= $i; ?>
                 <strong>
-                    Sketch <?=$i; ?>
+                    inverse
+                </strong>
+            </h2>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+        </article>
+    </div>
+   <?php } ?>
+</div>
+<div class="container" style="background-color: gray" >
+    <?php for ($i = 0; $i <=4; $i++) { ?>
+        <div class="col-lg-3 spc-complement-<?= $i; ?>">
+        <article id="sketch">
+            <h2>
+                        <span class="fa-stack fa-1x">
+                        <i class="fa fa-square fa-stack-2x"></i>
+                        <i class="fa fa-shield fa-stack-1x text-primary"></i>
+                        </span>
+                spc-complement-<?= $i; ?>
+                <strong>
+                    regular
+                </strong>
+            </h2>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+        </article>
+    </div>
+        <div class="col-lg-3 spc-complement-<?= $i; ?> spc-inverse">
+        <article id="sketch">
+            <h2>
+                        <span class="fa-stack fa-1x">
+                        <i class="fa fa-square fa-stack-2x"></i>
+                        <i class="fa fa-shield fa-stack-1x text-primary"></i>
+                        </span>
+                spc-complement-<?= $i; ?>
+                <strong>
+                    inverse
                 </strong>
             </h2>
             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
