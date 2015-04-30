@@ -1,0 +1,8 @@
+#plane {
+    z-index: 500;
+    position: fixed;
+}
+
+#top {
+    z-index: 0;
+}
