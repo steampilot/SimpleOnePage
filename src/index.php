@@ -38,8 +38,8 @@
                     data-bleed="10"
                     data-image-src="<?= getRandomBanner(); ?>">
 
-                <div id="start" class=" col-lg-4 col-md-4 pull-right  text-vertical-center">
-                    <object width="100%" type="image/svg+xml"
+                <div id="start" class=" col-lg-4 col-md-4 col-xs-12 pull-right  text-vertical-center">
+                    <object id="logo" width="100%" type="image/svg+xml"
                             data="assets/img/orca-logo.svg">
                         Your browser does not support SVG
                     </object>
@@ -59,81 +59,116 @@
                  data-parallax="scroll"
                  data-z-index="-50"
                  data-image-src="<?= getRandomBanner(); ?>">
-                <div id="business" class="col-lg-4 col-md-6 col-sm-10  col-xs-12 pull-left text-left spc-orca-0">
-                    <article id="sketch">
-                        <h2>
-                        <span class="fa-stack fa-1x">
-                        <i class="fa fa-square fa-stack-2x"></i>
-                        <i class="fa fa-shield fa-stack-1x text-primary"></i>
-                        </span>
-                            Drawing
-                            <strong>
-                                Sketch
-                            </strong>
-                        </h2>
+                <aside id="about" class="col-lg-6 col-md-6 col-sm-8 col-xs-12 pull-right">
+                    <div id="about-who" class=" text-left spc-orca-0">
+                        <h2>About <strong>US</strong></h2>
 
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                        <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
                             sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
                             sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-                    </article>
-                    <article id="design" class="">
-                        <h2>
-                        <span class="fa-stack fa-1x">
-                        <i class="fa fa-square fa-stack-2x"></i>
-                        <i class="fa fa-paint-brush fa-stack-1x text-primary"></i>
-                        </span>
-                            Making
-                            <strong>
-                                Design
-                            </strong>
-                        </h2>
-
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                            sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                            sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-                        </p>
-                    </article>
-                    <article id="product" class="SP-color-primary-0">
-                        <h2>
-                        <span class="fa-stack fa-1x">
-                        <i class="fa fa-square fa-stack-2x"></i>
-                        <i class="fa fa-file-code-o fa-stack-1x text-primary "></i>
-                        </span>
-                            Developing
-                            <strong>
-                                Product
-                            </strong>
-                        </h2>
-
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                            sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                            sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-                        </p>
-                    </article>
-
-                </div>
-                <aside id="news" class="col-lg-6 col-md-6 col-sm-8 col-xs-12 pull-right text-left">
-                    <div id="best" class="spc-orca-1 spc-inverse">
-                        <h2>Best <strong>Services</strong></h2>
-
-                        <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-                            tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
-                            accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
-                            est Lorem ipsum dolor sit amet.
-                        </p>
+                            Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
                         <a href="#" class="btn btn-dark">Learn More</a>
 
                     </div>
-                    <div id="verified" class="col-lg-6 col-md-6 col-sm-8 col-xs-12 spc-orca-2 spc-inverse">
-                        <h2>Verified <strong>Partner</strong></h2>
+                    <div id="about-where" class="col-lg-6 col-md-6 col-sm-8 col-xs-12 spc-primary-4 spc-inverse">
+                        <h2>About <strong>Where</strong></h2>
 
                         <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                            sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                            sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                            Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
                             <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.
                         </p>
                     </div>
 
                 </aside>
-                <div id="regional" class="col-lg-3 col-md-6 col-sm-8 col-xs-12 pull-left spc-orca-3 spc-inverse">
+                <div id="skill" class="col-lg-4 col-md-6 col-sm-10  col-xs-12 pull-left text-left spc-orca-1">
+                    <h1>
+                        What we can.
+                    </h1>
+
+                    <div>
+                        <article id="draw">
+                            <h2>
+                        <span class="fa-stack fa-1x">
+                        <i class="fa fa-square fa-stack-2x"></i>
+                        <i class="fa fa-shield fa-stack-1x text-primary"></i>
+                        </span>
+                                Drawing
+                                <strong>
+                                    Visions
+                                </strong>
+                            </h2>
+
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                        </article>
+                    </div>
+                    <div class="spc-secondary-1-3 spc-inverse">
+
+                        <article id="create">
+                            <h2>
+                        <span class="fa-stack fa-1x">
+                        <i class="fa fa-square fa-stack-2x"></i>
+                        <i class="fa fa-paint-brush fa-stack-1x text-primary"></i>
+                        </span>
+                                Creating
+                                <strong>
+                                    Goals
+                                </strong>
+                            </h2>
+
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                            </p>
+                        </article>
+                    </div>
+                    <div class="spc-secondary-1-1">
+
+                        <article id="develop">
+                            <h2>
+                        <span class="fa-stack fa-1x">
+                        <i class="fa fa-square fa-stack-2x"></i>
+                        <i class="fa fa-file-code-o fa-stack-1x text-primary "></i>
+                        </span>
+                                Developing
+                                <strong>
+                                    Ideas
+                                </strong>
+                            </h2>
+
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                            </p>
+                        </article>
+                    </div>
+                    <div class="spc-secondary-1-2 spc-inverse">
+
+                        <article id="support">
+                            <h2>
+                        <span class="fa-stack fa-1x">
+                        <i class="fa fa-square fa-stack-2x"></i>
+                        <i class="fa fa-file-code-o fa-stack-1x text-primary "></i>
+                        </span>
+                                Supporting
+                                <strong>
+                                    Dreams
+                                </strong>
+                            </h2>
+
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                            </p>
+                        </article>
+                    </div>
+
+                </div>
+
+                <div id="ref" class="col-lg-3 col-md-6 col-sm-8 col-xs-12 pull-left spc-orca-3 spc-inverse">
                     <h2>Regional <strong>Aproach</strong></h2>
 
                     <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
