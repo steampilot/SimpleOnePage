@@ -7,9 +7,9 @@
  */
 
 ?>
-<section id="about" class="about">
-    <aside class="row col-lg-12">
-        <article class="text-left spc-orca-0">
+<section id="about" class="container">
+    <aside class=" col-lg-12">
+        <article class="row spc-orca-0">
             <header>
                 <h2>About <strong>US</strong></h2>
             </header>
@@ -20,7 +20,7 @@
                 starkes Netz an Freelancern die wir je nach Bedarf einsetzen können. Wir sind sehr stolz auf die
                 enge Partnerschaft die wir mit jedem Kunden haben. Unser Team sorgt für Ihren Erfolg!</p>
         </article>
-        <article class="col-lg-12 spc-primary-4">
+        <article class="row  spc-primary-4">
             <header>
                 <h2>What we can.</strong></h2>
             </header>
@@ -66,58 +66,54 @@
         </div>
     </article>
 </section>
+<section class="container">
+    <article class=" col-lg-5  animated slideInUp spc-secondary-1-1">
 
-
-<article class=" col-lg-5  animated slideInUp spc-secondary-1-1">
-    <header class="row">
-        <div class="col-lg-2 ">
-            <h2>
+        <header class="row">
+            <div class="col-lg-2 ">
+                <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-check-circle-o fa-stack-1x text-primary "></i>
                         </span>
 
-            </h2>
-        </div>
-        <div class="col-lg-4">
-            <h2>
-                Webberatung
-            </h2>
+                </h2>
+            </div>
+            <div class="col-lg-4">
+                <h2>
+                    Webberatung
+                </h2>
 
+            </div>
+        </header>
+        <div class="row">
+            <p>Das Wichtigste überhaupt. Ohne eine fundierte und präzise Analyse von Prozessen kann keine
+                erfolgreiche Software entwickelt werden. Hinterfragen und optimieren ist das Ziel. Wir wollen nicht
+                irgend eine, wir wollen DIE Lösung für Sie. </p>
         </div>
-    </header>
-    <div class="row">
-        <p>Das Wichtigste überhaupt. Ohne eine fundierte und präzise Analyse von Prozessen kann keine
-            erfolgreiche Software entwickelt werden. Hinterfragen und optimieren ist das Ziel. Wir wollen nicht
-            irgend eine, wir wollen DIE Lösung für Sie. </p>
-    </div>
-</article>
-<article class="skill col-lg-5 pull-left text-left animated slideInRight spc-secondary-1-1">
-    <header class="row">
-        <div class="col-lg-2 ">
-            <h2>
+    </article>
+    <article class="skill col-lg-5 pull-left text-left animated slideInRight spc-secondary-1-1">
+        <header class="row">
+            <div class="col-lg-2 ">
+                <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-cogs fa-stack-1x text-primary "></i>
                         </span>
 
-            </h2>
+                </h2>
+            </div>
+            <div class="col-lg-4">
+                <h2>
+                    Systembetreuung
+                </h2>
+
+            </div>
+        </header>
+        <div class="row">
+            <p>Hard- und Software ist oft ein Buch mit sieben Siegeln. Wir betreuen Ihre Systeme, damit Sie sich um
+                Ihre Arbeit kümmern können. Profitieren Sie von über 25 Jahre Erfahrung. Zudem sind wir auch
+                offizieller Sage Partner. </p>
         </div>
-        <div class="col-lg-4">
-            <h2>
-                Systembetreuung
-            </h2>
-
-        </div>
-    </header>
-    <div class="row">
-        <p>Hard- und Software ist oft ein Buch mit sieben Siegeln. Wir betreuen Ihre Systeme, damit Sie sich um
-            Ihre Arbeit kümmern können. Profitieren Sie von über 25 Jahre Erfahrung. Zudem sind wir auch
-            offizieller Sage Partner. </p>
-    </div>
-</article>
-
-
-</div>
-
+    </article>
 </section>

@@ -1,15 +1,4 @@
-#top h1 {
-    text-align: center;
-    color: #ffffff;
-    font-family: 'Lobster', cursive;
-    text-transform: capitalize;
-}
-
-aside p {
-
-/ / columns : 100 px 3;
-/ / -webkit-columns : 100 px 3; /* Safari and Chrome */
-/ / -moz-columns : 100 px 3; /* Firefox */
-/ / font-weight : 300;
-/ / margin-bottom : 66 px;
+article {
+    padding: 15px;
+    margin: 15px;
 }

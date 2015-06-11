@@ -3,6 +3,50 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster);
 @import url(http://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic);
 @import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.toggle {
+    margin: 5px 5px 0 0;
+}
+
+.container {
+    border: solid #000000;
+    padding: 0;
+}
+
+#top h1 {
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    text-transform: capitalize;
+}
+
+aside {
+    border: dashed blue 2px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 #contact {
     background-image: url("../img/map.jpg");
 }
@@ -68,7 +112,8 @@
 @media screen and (max-width : 768px){
     #map_canvas {display: none;}
     #map_button { display: inherit;}
-        #contact {
+
+    #contact {
         background-image: url("../img/map.jpg");
     }
 }
@@ -94,69 +139,18 @@
 
 }
 #map_paralax {}
-.container{
 
-}
-#top {
-    margin: 0;
-    padding: 0;
-}
-
-#callout {
-    width: 100%;
-    height: 400px;
-
-}
-#banner {
-    overflow: hidden;
-
-    width: 80%;
-    height: 300px;
-}
 
 #logo {
     max-width: 200px;
 }
-#start {
-    background-color: #ececec;
-    margin: 0;
-    padding: 10px;
-
-}
-
 #skill {
     min-height: 450px;
-    margin: 0;
-    padding: 0;
+
     font-family: 'Lobster', cursive;
 
 }
 
-#skill p {
-    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
-}
-
-#skill div {
-
-    /*margin: 5px 10px 5px 10px ;*/
-    padding: 5px 10px 5px 10px;
-}
-
-#about {
-    padding: 0;
-    margin: 0;
-}
-
-#about-who {
-    margin: 0;
-    padding: 10px;
-    font-family: 'Oxygen', sans-serif;
-}
-
-#about-where {
-    margin: 0;
-    padding: 10px;
-}
 
 
 #contact{
@@ -174,16 +168,6 @@
     padding: 10px;
     font-family: '', sans-serif;
 }
-html,
-body {
-    width: 100%;
-    height: 100%;
-}
-
-body {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-}
-
 
 .text-vertical-center {
     display: table-cell;
@@ -206,7 +190,7 @@ body {
 .btn-dark {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0, 0, 0, 0.4);
     text-decoration: none;
     text-transform: none;
 
@@ -216,7 +200,7 @@ body {
 .btn-dark:focus,
 .btn-dark:active {
     color: #fff;
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0, 0, 0, 0.7);
     text-decoration: none;
     text-transform: none;
 }
@@ -224,7 +208,7 @@ body {
 .btn-light {
     border-radius: 0;
     color: #000000 !important;
-    background-color: rgb(255,255,255);
+    background-color: rgb(255, 255, 255);
     text-decoration: none;
     text-transform: none;
 }
@@ -233,7 +217,7 @@ body {
 .btn-light:focus,
 .btn-light:active {
     color: #333;
-    background-color: rgba(255,255,255,0.8);
+    background-color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
     text-transform: none;
 }
@@ -292,7 +276,7 @@ hr.small {
 .sidebar-nav li a:hover {
     text-decoration: none;
     color: #fff;
-    background: rgba(255,255,255,0.2);
+    background: rgba(255, 255, 255, 0.2);
 }
 
 .sidebar-nav li a:active,
@@ -332,10 +316,6 @@ hr.small {
     transition: all 0.4s ease 0s;
 }
 
-.toggle {
-    margin: 5px 5px 0 0;
-}
-
 /* Header */
 
 .header {
@@ -347,12 +327,6 @@ hr.small {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
-
-/* About */
-
-.about {
-    /*padding: 50px 0;*/
 }
 
 /* Services */

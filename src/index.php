@@ -30,33 +30,36 @@
      data-bleed="0"
      data-z-index="-200"
      data-image-src="assets/img/banner/space_invader.jpg">
-    <div class="container">
-        <div class="row">
-            <header id="top" class="header parallax-container"
-                    data-parallax="scroll"
-                    data-z-index="-100"
-                    data-bleed="0"
-                    data-image-src="<?= getRandomBanner(); ?>">
+    <section class="container">
 
-                <div id="start" class=" col-lg-4 col-md-4 col-xs-12 pull-right  text-vertical-center">
-                    <object id="logo" width="100%" type="image/svg+xml"
-                            data="assets/img/orca-logo.svg">
-                        Your browser does not support SVG
-                    </object>
+        <div id="banner" class="parallax-container"
+             data-parallax="scroll"
+             data-z-index="-100"
+             data-bleed="0"
+             data-natural-width="650"
+             data-natural-height="366"
+             data-image-src="<?= getRandomBanner(); ?>">
+
+            <div id="start" class=" col-lg-4 pull-right  text-vertical-center">
+                <object id="logo" width="100%" type="image/svg+xml"
+                        data="assets/img/orca-logo.svg">
+                    Your browser does not support SVG
+                </object>
 
 
-                </div>
-                <div class="col-lg-12 text-vertical-center">
-                    <h1>The Web starts with us</13>
-                </div>
-            </header>
+            </div>
+            <div class="col-lg-12 text-vertical-center">
+                <h1>The Web starts with us</13>
+            </div>
         </div>
-        <?php require_once "about.php"; ?>
+
+    </section>
+    <!-- Container-->
+    <?php require_once "about.php"; ?>
 
 
-        <!-- About -->
+    <!-- About -->
 
-    </div>
 
     <!-- Header -->
     <!-- Services -->

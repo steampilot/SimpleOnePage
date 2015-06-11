@@ -31,9 +31,11 @@ require_once 'src/RandomBanner.php';
 
     <!-- Stylish One Page Theme -->
 
+    <link rel="stylesheet" href="assets/css/parallax.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="assets/css/stylish-onepage.css">
     <link rel="stylesheet" href="assets/css/color-pallet.css">
+    <link rel="stylesheet" href="assets/css/orca.css">
 </head>
 <body>
 
