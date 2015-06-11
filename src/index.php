@@ -27,7 +27,7 @@
 </nav>
 <div id="plane" class="parallax-container"
      data-parallax="scroll"
-     data-bleed="50"
+     data-bleed="0"
      data-z-index="-200"
      data-image-src="assets/img/banner/space_invader.jpg">
     <div class="container">
@@ -35,7 +35,7 @@
             <header id="top" class="header parallax-container"
                     data-parallax="scroll"
                     data-z-index="-100"
-                    data-bleed="10"
+                    data-bleed="0"
                     data-image-src="<?= getRandomBanner(); ?>">
 
                 <div id="start" class=" col-lg-4 col-md-4 col-xs-12 pull-right  text-vertical-center">
@@ -45,140 +45,17 @@
                     </object>
 
 
-                    <h3>The Web starts with us</h3>
-                    <br>
-                    <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
+                </div>
+                <div class="col-lg-12 text-vertical-center">
+                    <h1>The Web starts with us</13>
                 </div>
             </header>
         </div>
+        <?php require_once "about.php"; ?>
 
 
         <!-- About -->
-        <section id="about" class="about">
-            <div class="row parallax-container"
-                 data-parallax="scroll"
-                 data-z-index="-50"
-                 data-image-src="<?= getRandomBanner(); ?>">
-                <aside id="about" class="col-lg-6 col-md-6 col-sm-8 col-xs-12 pull-right">
-                    <div id="about-who" class=" text-left spc-orca-0">
-                        <h2>About <strong>US</strong></h2>
 
-                        <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                            sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                            sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-                            Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-                        <a href="#" class="btn btn-dark">Learn More</a>
-
-                    </div>
-                    <div id="about-where" class="col-lg-6 col-md-6 col-sm-8 col-xs-12 spc-primary-4 spc-inverse">
-                        <h2>About <strong>Where</strong></h2>
-
-                        <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                            sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                            sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-                            Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-                            <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.
-                        </p>
-                    </div>
-
-                </aside>
-                <div id="skill" class="col-lg-4 col-md-6 col-sm-10  col-xs-12 pull-left text-left spc-orca-1">
-                    <h1>
-                        What we can.
-                    </h1>
-
-                    <div>
-                        <article id="draw">
-                            <h2>
-                        <span class="fa-stack fa-1x">
-                        <i class="fa fa-square fa-stack-2x"></i>
-                        <i class="fa fa-shield fa-stack-1x text-primary"></i>
-                        </span>
-                                Drawing
-                                <strong>
-                                    Visions
-                                </strong>
-                            </h2>
-
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-                        </article>
-                    </div>
-                    <div class="spc-secondary-1-3 spc-inverse">
-
-                        <article id="create">
-                            <h2>
-                        <span class="fa-stack fa-1x">
-                        <i class="fa fa-square fa-stack-2x"></i>
-                        <i class="fa fa-paint-brush fa-stack-1x text-primary"></i>
-                        </span>
-                                Creating
-                                <strong>
-                                    Goals
-                                </strong>
-                            </h2>
-
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-                            </p>
-                        </article>
-                    </div>
-                    <div class="spc-secondary-1-1">
-
-                        <article id="develop">
-                            <h2>
-                        <span class="fa-stack fa-1x">
-                        <i class="fa fa-square fa-stack-2x"></i>
-                        <i class="fa fa-file-code-o fa-stack-1x text-primary "></i>
-                        </span>
-                                Developing
-                                <strong>
-                                    Ideas
-                                </strong>
-                            </h2>
-
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-                            </p>
-                        </article>
-                    </div>
-                    <div class="spc-secondary-1-2 spc-inverse">
-
-                        <article id="support">
-                            <h2>
-                        <span class="fa-stack fa-1x">
-                        <i class="fa fa-square fa-stack-2x"></i>
-                        <i class="fa fa-file-code-o fa-stack-1x text-primary "></i>
-                        </span>
-                                Supporting
-                                <strong>
-                                    Dreams
-                                </strong>
-                            </h2>
-
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-                            </p>
-                        </article>
-                    </div>
-
-                </div>
-
-                <div id="ref" class="col-lg-3 col-md-6 col-sm-8 col-xs-12 pull-left spc-orca-3 spc-inverse">
-                    <h2>Regional <strong>Aproach</strong></h2>
-
-                    <p class="lead">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                        <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.
-                    </p>
-                </div>
-            </div>
-            <!-- /.row -->
-
-        </section>
     </div>
 
     <!-- Header -->
@@ -265,7 +142,7 @@
              data-z-index="-50"
              data-natural-width="650"
              data-natural-height="366">
-            <h1>Come and get your coffee</h1>
+            <h1 class="animated bounce infinite">Come and get your coffee</h1>
         </div>
     </aside>
 
@@ -278,7 +155,7 @@
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="portfolio-item">
+                            <div class="animated rotateIn portfolio-item">
                                 <a href="assets/img/impressions/blue_willy.jpg" target="_blank">
                                     <img class="img-portfolio img-responsive"
                                          srcset="assets/img/impressions/max/blue_willy.jpg 1800w,
@@ -289,7 +166,7 @@
                                          alt="Blue Willy"/>
                                 </a>
                             </div>
-                            <div class="portfolio-item">
+                            <div class="animated rotateIn portfolio-item">
                                 <a href="assets/img/impressions/clothes_rack.jpg" target="_blank">
                                     <img class="img-portfolio img-responsive"
                                          srcset="assets/img/impressions/max/clothes_rack.jpg 1800w,
@@ -302,7 +179,7 @@
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="portfolio-item">
+                            <div class="animated rotateIn portfolio-item">
                                 <a href="assets/img/impressions/nian_cat.jpg" target="_blank">
                                     <img class="img-portfolio img-responsive"
                                          srcset="assets/img/impressions/max/nian_cat.jpg 1800w,
@@ -313,7 +190,7 @@
                                          alt="Nian Cat"/>
                                 </a>
                             </div>
-                            <div class="portfolio-item">
+                            <div class="animated rotateIn portfolio-item">
                                 <a href="assets/img/impressions/space_invader.jpg" target="_blank">
                                     <img class="img-portfolio img-responsive"
                                          srcset="assets/img/impressions/max/space_invader.jpg 1800w,
@@ -328,7 +205,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="portfolio-item">
+                            <div class="animated rotateIn portfolio-item">
                                 <a href="assets/img/impressions/code_buddha.jpg" target="_blank">
                                     <img class="img-portfolio img-responsive"
                                          src="assets/img/impressions/code_buddha.jpg"
@@ -339,7 +216,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="portfolio-item">
+                            <div class="animated rotateIn portfolio-item">
                                 <a href="assets/img/impressions/bright_wall.jpg" target="_blank">
                                     <img class="img-portfolio img-responsive"
                                          srcset="assets/img/impressions/max/bright_wall.jpg 1800w,
@@ -350,7 +227,7 @@
                                          alt="Bright Wall"
                                 </a>
                             </div>
-                            <div class="portfolio-item">
+                            <div class="animated rotateIn portfolio-item">
                                 <a href="assets/img/impressions/coffee_drop.jpg" target="_blank">
                                     <img class="img-portfolio img-responsive"
                                          srcset="assets/img/impressions/max/coffee_drop.jpg 1800w,
@@ -363,7 +240,7 @@
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="portfolio-item">
+                            <div class="animated rotateIn portfolio-item">
                                 <a href="assets/img/impressions/sound_beat.jpg" target="_blank">
                                     <img class="img-portfolio img-responsive"
                                          srcset="assets/img/impressions/max/sound_beat.jpg 1800w,
@@ -374,7 +251,7 @@
                                          alt="Sound Beat"
                                 </a>
                             </div>
-                            <div class="portfolio-item">
+                            <div class="animated rotateIn portfolio-item">
                                 <a href="assets/img/impressions/system_plant.jpg" target="_blank">
                                     <img class="img-portfolio img-responsive"
                                          srcset="assets/img/impressions/max/system_plant.jpg 1800w,

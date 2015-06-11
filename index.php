@@ -30,6 +30,8 @@ require_once 'src/RandomBanner.php';
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
     <!-- Stylish One Page Theme -->
+
+    <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="assets/css/stylish-onepage.css">
     <link rel="stylesheet" href="assets/css/color-pallet.css">
 </head>
