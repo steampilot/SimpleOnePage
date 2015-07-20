@@ -6,7 +6,8 @@
  * Time: 11:17
  */
 
-function getRandomBanner($path = "assets/img/banner") {
+function getRandomBanner($path = "assets/img/random_banner")
+{
     $randomBanner = $path . "/";
     $pictures = array();
     if ($handle = opendir( $path)) {
