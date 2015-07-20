@@ -22,7 +22,7 @@
         </article>
         <article class="row  spc-primary-4">
             <header>
-                <h2>What we can.</strong></h2>
+                <h2>Our Skills.</strong></h2>
             </header>
             <p class="lead">Ob webbasierte Applikationen, E-Commerce oder individuelle Websites, wir bieten Ihenen
                 die Lösung die für Sie stimmt. Vor jedem Projekt setzen wir uns intensiv mit den gestellten
@@ -44,7 +44,7 @@
                         <i class="fa fa-file-code-o fa-stack-1x text-primary "></i>
                         </span>
 
-                        Webentwicklung
+                        Web Development
                     </h2>
 
                 </header>
@@ -74,7 +74,7 @@
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-check-circle-o fa-stack-1x text-primary "></i>
                         </span>
-                        Webberatung
+                        Project Management
 
                     </h2>
 
@@ -96,8 +96,8 @@
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-cogs fa-stack-1x text-primary "></i>
                         </span>
-                        Systembetreuung
 
+                        System Maintenance
                     </h2>
 
                 </header>

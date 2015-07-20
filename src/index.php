@@ -16,7 +16,7 @@
              data-image-src="<?= getRandomBanner(); ?>">
 
 
-            <div id="start" class=" col-lg-4 pull-right  text-vertical-center">
+            <div id="start" class=" col-lg-2 pull-right  text-vertical-center">
                 <object id="logo" width="100%" type="image/svg+xml"
                         data="assets/img/orca-logo.svg">
                     Your browser does not support SVG
@@ -24,7 +24,7 @@
 
 
             </div>
-            <div class="col-lg-12 text-vertical-center">
+            <div class="col-xs-12 col-lg-12 text-vertical-center">
                 <h1 class="slogan">The Web starts with us</h1>
             </div>
 
@@ -127,129 +127,7 @@
     </aside>
 
     <!-- Portfolio -->
-    <section id="impressions" class="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h2>Our Work</h2>
-                    <hr class="small">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="animated rotateIn portfolio-item">
-                                <a href="assets/img/impressions/blue_willy.jpg" target="_blank">
-                                    <img class="img-portfolio img-responsive"
-                                         srcset="assets/img/impressions/max/blue_willy.jpg 1800w,
-                                             assets/img/impressions/mid/blue_willy.jpg  800w,
-                                             assets/img/impressions/min/blue_willy.jpg  300w"
-                                         sizes="1800w, 800w, 300w"
-                                         src="assets/img/impressions/blue_willy.jpg"
-                                         alt="Blue Willy"/>
-                                </a>
-                            </div>
-                            <div class="animated rotateIn portfolio-item">
-                                <a href="assets/img/impressions/clothes_rack.jpg" target="_blank">
-                                    <img class="img-portfolio img-responsive"
-                                         srcset="assets/img/impressions/max/clothes_rack.jpg 1800w,
-                                             assets/img/impressions/mid/clothes_rack.jpg  800w,
-                                             assets/img/impressions/min/clothes_rack.jpg  300w"
-                                         sizes="1800w, 800w, 300w"
-                                         src="assets/img/impressions/clothes_rack.jpg"
-                                         alt="Clothes Rack"/>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="animated rotateIn portfolio-item">
-                                <a href="assets/img/impressions/nian_cat.jpg" target="_blank">
-                                    <img class="img-portfolio img-responsive"
-                                         srcset="assets/img/impressions/max/nian_cat.jpg 1800w,
-                                             assets/img/impressions/mid/nian_cat.jpg  800w,
-                                             assets/img/impressions/min/nian_cat.jpg  300w"
-                                         sizes="1800w, 800w, 300w"
-                                         src="assets/img/impressions/nian_cat.jpg"
-                                         alt="Nian Cat"/>
-                                </a>
-                            </div>
-                            <div class="animated rotateIn portfolio-item">
-                                <a href="assets/img/impressions/space_invader.jpg" target="_blank">
-                                    <img class="img-portfolio img-responsive"
-                                         srcset="assets/img/impressions/max/space_invader.jpg 1800w,
-                                             assets/img/impressions/mid/space_invader.jpg  800w,
-                                             assets/img/impressions/min/space_invader.jpg  300w"
-                                         sizes="1800w, 800w, 300w"
-                                         src="assets/img/impressions/space_invader.jpg"
-                                         alt="Space Invader"/>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="animated rotateIn portfolio-item">
-                                <a href="assets/img/impressions/code_buddha.jpg" target="_blank">
-                                    <img class="img-portfolio img-responsive"
-                                         src="assets/img/impressions/code_buddha.jpg"
-                                         alt="Bright Wall"/>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="animated rotateIn portfolio-item">
-                                <a href="assets/img/impressions/bright_wall.jpg" target="_blank">
-                                    <img class="img-portfolio img-responsive"
-                                         srcset="assets/img/impressions/max/bright_wall.jpg 1800w,
-                                             assets/img/impressions/mid/bright_wall.jpg  800w,
-                                             assets/img/impressions/min/bright_wall.jpg  300w"
-                                         sizes="1800w, 800w, 300w"
-                                         src="assets/img/impressions/bright_wall.jpg"
-                                         alt="Bright Wall"
-                                </a>
-                            </div>
-                            <div class="animated rotateIn portfolio-item">
-                                <a href="assets/img/impressions/coffee_drop.jpg" target="_blank">
-                                    <img class="img-portfolio img-responsive"
-                                         srcset="assets/img/impressions/max/coffee_drop.jpg 1800w,
-                                             assets/img/impressions/mid/coffee_drop.jpg  800w,
-                                             assets/img/impressions/min/coffee_drop.jpg  300w"
-                                         sizes="1800w, 800w, 300w"
-                                         src="assets/img/impressions/bright_wall.jpg"
-                                         alt="Coffee Drop"
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="animated rotateIn portfolio-item">
-                                <a href="assets/img/impressions/sound_beat.jpg" target="_blank">
-                                    <img class="img-portfolio img-responsive"
-                                         srcset="assets/img/impressions/max/sound_beat.jpg 1800w,
-                                             assets/img/impressions/mid/sound_beat.jpg  800w,
-                                             assets/img/impressions/min/sound_beat.jpg  300w"
-                                         sizes="1800w, 800w, 300w"
-                                         src="assets/img/impressions/sound_beat.jpg"
-                                         alt="Sound Beat"
-                                </a>
-                            </div>
-                            <div class="animated rotateIn portfolio-item">
-                                <a href="assets/img/impressions/system_plant.jpg" target="_blank">
-                                    <img class="img-portfolio img-responsive"
-                                         srcset="assets/img/impressions/max/system_plant.jpg 1800w,
-                                             assets/img/impressions/mid/system_plant.jpg  800w,
-                                             assets/img/impressions/min/system_plant.jpg  300w"
-                                         sizes="1800w, 800w, 300w"
-                                         src="assets/img/impressions/system_plant.jpg"
-                                         alt="System Plant"
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- /.row (nested) -->
-            </div>
-            <a href="#" class="btn btn-dark">View More Items</a>
-        </div>
-    </section>
+    <?php require_once "portfolio.php"; ?>
 
     <!-- Call to Action -->
     <aside class="call-to-action bg-primary spc-orca-1">

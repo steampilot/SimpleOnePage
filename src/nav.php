@@ -16,10 +16,10 @@
             <i class="fa fa-times"></i>
         </a>
         <li class="sidebar-brand">
-            <a href="#top" onclick=$("#menu-close").click();>Start Bootstrap</a>
+            <a href="#start" onclick=$("#menu-close").click();>Start Bootstrap</a>
         </li>
         <li>
-            <a href="#top" onclick=$("#menu-close").click();>Home</a>
+            <a href="#start" onclick=$("#menu-close").click();>Home</a>
         </li>
         <li>
             <a href="#about" onclick=$("#menu-close").click();>About</a>
@@ -28,7 +28,7 @@
             <a href="#partner" onclick=$("#menu-close").click();>Partner</a>
         </li>
         <li>
-            <a href="#impressions" onclick=$("#menu-close").click();>Impressions</a>
+            <a href="#portfolio" onclick=$("#menu-close").click();>Portfolio</a>
         </li>
         <li>
             <a href="#contact" onclick=$("#menu-close").click();>Contact</a>
