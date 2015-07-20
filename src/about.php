@@ -34,84 +34,80 @@
     </aside>
 </section>
 <section id="skills" class="container">
-    <article class="  col-lg-4 animated slideInLeft spc-secondary-1-1">
-        <header class="row">
-            <div class="col-lg-2 ">
-                <h2>
+    <div class="row">
+        <div class="col-lg-4">
+            <article class=" spc-secondary-1-1">
+                <header>
+                    <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-file-code-o fa-stack-1x text-primary "></i>
                         </span>
 
-                </h2>
-            </div>
-            <div class="col-lg-4">
-                <h2>
-                    Webentwicklung
-                </h2>
+                        Webentwicklung
+                    </h2>
 
-            </div>
-        </header>
-        <div class="row">
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-            </p>
+                </header>
 
-            <p>
-                Egal ob gross oder klein, E-Commerce Projekte sind vertrauenssache. Mit OXID eSales setzen wir auf
-                eine starke und verlässliche Basis. Wir sind zertifizierter OXID Solution Partner und seit 2011
-                certified engeneers.
-            </p>
+                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                    sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                </p>
+
+                <p>
+                    Egal ob gross oder klein, E-Commerce Projekte sind vertrauenssache. Mit OXID eSales setzen wir
+                    auf
+                    eine starke und verlässliche Basis. Wir sind zertifizierter OXID Solution Partner und seit 2011
+                    certified engeneers.
+                </p>
+
+            </article>
         </div>
-    </article>
-    <article class=" col-lg-4  animated slideInUp spc-secondary-1-3">
+        <div class="col-lg-4">
 
-        <header class="row">
-            <div class="col-lg-2 ">
-                <h2>
+            <article class=" spc-secondary-1-3">
+
+                <header>
+
+                    <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-check-circle-o fa-stack-1x text-primary "></i>
                         </span>
+                        Webberatung
 
-                </h2>
-            </div>
-            <div class="col-lg-4">
-                <h2>
-                    Webberatung
-                </h2>
+                    </h2>
 
-            </div>
-        </header>
-        <div class="row">
-            <p>Das Wichtigste überhaupt. Ohne eine fundierte und präzise Analyse von Prozessen kann keine
-                erfolgreiche Software entwickelt werden. Hinterfragen und optimieren ist das Ziel. Wir wollen nicht
-                irgend eine, wir wollen DIE Lösung für Sie. </p>
+
+                </header>
+                <p>Das Wichtigste überhaupt. Ohne eine fundierte und präzise Analyse von Prozessen kann keine
+                    erfolgreiche Software entwickelt werden. Hinterfragen und optimieren ist das Ziel. Wir wollen
+                    nicht
+                    irgend eine, wir wollen DIE Lösung für Sie. </p>
+
+            </article>
         </div>
-    </article>
-    <article class=" col-lg-4 pull-right animated slideInRight spc-secondary-1-2">
-        <header class="row">
-            <div class="col-lg-2 ">
-                <h2>
+        <div class="col-lg-4">
+            <article class=" spc-secondary-1-2">
+                <header>
+
+                    <h2>
                         <span class="fa-stack fa-1x">
                         <i class="fa fa-square fa-stack-2x"></i>
                         <i class="fa fa-cogs fa-stack-1x text-primary "></i>
                         </span>
+                        Systembetreuung
 
-                </h2>
-            </div>
-            <div class="col-lg-4">
-                <h2>
-                    Systembetreuung
-                </h2>
+                    </h2>
 
-            </div>
-        </header>
-        <div class="row">
-            <p>Hard- und Software ist oft ein Buch mit sieben Siegeln. Wir betreuen Ihre Systeme, damit Sie sich um
-                Ihre Arbeit kümmern können. Profitieren Sie von über 25 Jahre Erfahrung. Zudem sind wir auch
-                offizieller Sage Partner. </p>
+                </header>
+
+                <p>Hard- und Software ist oft ein Buch mit sieben Siegeln. Wir betreuen Ihre Systeme, damit Sie sich
+                    um
+                    Ihre Arbeit kümmern können. Profitieren Sie von über 25 Jahre Erfahrung. Zudem sind wir auch
+                    offizieller Sage Partner. </p>
+
+            </article>
         </div>
-    </article>
+    </div>
 </section>
