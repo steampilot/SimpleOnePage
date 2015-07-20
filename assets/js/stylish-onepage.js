@@ -6,12 +6,16 @@
 $(document).ready(function () {
     $("#menu-close").click(function (e) {
         e.preventDefault();
-        $("#sidebar-wrapper").toggleClass("active");
+        $("#sidebar-wrapper").removeClass("slideInDown");
+        $("#sidebar-wrapper").addClass("slideOutUp");
+
+
     });
 // Opens the sidebar menu
     $("#menu-toggle").click(function (e) {
         e.preventDefault();
-        $("#sidebar-wrapper").toggleClass("active");
+        $("#sidebar-wrapper").removeClass("slideOutLeft slideOutUp");
+        $("#sidebar-wrapper").addClass("slideInDown");
     });
 // Scrolls to the selected menu item on the page
     $(function () {

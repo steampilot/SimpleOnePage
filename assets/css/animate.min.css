@@ -999,7 +999,7 @@
     }
 }
 
-.bounceOutUp {
+.slideOutUp {
     -webkit-animation-name: bounceOutUp;
     animation-name: bounceOutUp
 }

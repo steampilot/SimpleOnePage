@@ -33,8 +33,8 @@
         </article>
     </aside>
 </section>
-<section id="skills">
-    <article class=" row col-lg-5 animated slideInLeft spc-secondary-1-1">
+<section id="skills" class="container">
+    <article class="  col-lg-4 animated slideInLeft spc-secondary-1-1">
         <header class="row">
             <div class="col-lg-2 ">
                 <h2>
@@ -65,9 +65,7 @@
             </p>
         </div>
     </article>
-</section>
-<section class="container">
-    <article class=" col-lg-5  animated slideInUp spc-secondary-1-1">
+    <article class=" col-lg-4  animated slideInUp spc-secondary-1-3">
 
         <header class="row">
             <div class="col-lg-2 ">
@@ -92,7 +90,7 @@
                 irgend eine, wir wollen DIE Lösung für Sie. </p>
         </div>
     </article>
-    <article class="skill col-lg-5 pull-left text-left animated slideInRight spc-secondary-1-1">
+    <article class=" col-lg-4 pull-right animated slideInRight spc-secondary-1-2">
         <header class="row">
             <div class="col-lg-2 ">
                 <h2>

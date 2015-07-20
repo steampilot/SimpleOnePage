@@ -1,4 +1,16 @@
 article {
-    padding: 15px;
+    padding: 0 15px 0 15px;
     margin: 15px;
+    height: inherit;
+    line-height: normal;
+}
+
+article h2 {
+
+}
+
+.slogan {
+    font-family: 'Lobster', cursive;
+    text-transform: capitalize;
+    color: #ffffff;
 }

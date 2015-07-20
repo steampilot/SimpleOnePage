@@ -1,36 +1,11 @@
 <body>
-
-<!-- Navigation -->
-<a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
-<nav id="sidebar-wrapper">
-    <ul class="sidebar-nav">
-        <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
-        <li class="sidebar-brand">
-            <a href="#top" onclick=$("#menu-close").click();>Start Bootstrap</a>
-        </li>
-        <li>
-            <a href="#top" onclick=$("#menu-close").click();>Home</a>
-        </li>
-        <li>
-            <a href="#about" onclick=$("#menu-close").click();>About</a>
-        </li>
-        <li>
-            <a href="#partner" onclick=$("#menu-close").click();>Partner</a>
-        </li>
-        <li>
-            <a href="#impressions" onclick=$("#menu-close").click();>Impressions</a>
-        </li>
-        <li>
-            <a href="#contact" onclick=$("#menu-close").click();>Contact</a>
-        </li>
-    </ul>
-</nav>
 <div id="plane" class="parallax-container"
      data-parallax="scroll"
      data-bleed="0"
      data-z-index="-200"
      data-image-src="assets/img/banner/space_invader.jpg">
     <section class="container">
+        <?php require_once "nav.php"; ?>
 
         <div id="banner" class="parallax-container"
              data-parallax="scroll"
@@ -39,6 +14,7 @@
              data-natural-width="650"
              data-natural-height="366"
              data-image-src="<?= getRandomBanner(); ?>">
+
 
             <div id="start" class=" col-lg-4 pull-right  text-vertical-center">
                 <object id="logo" width="100%" type="image/svg+xml"
@@ -49,8 +25,9 @@
 
             </div>
             <div class="col-lg-12 text-vertical-center">
-                <h1>The Web starts with us</13>
+                <h1 class="slogan">The Web starts with us</h1>
             </div>
+
         </div>
 
     </section>
@@ -145,7 +122,7 @@
              data-z-index="-50"
              data-natural-width="650"
              data-natural-height="366">
-            <h1 class="animated bounce infinite">Come and get your coffee</h1>
+            <h1 class="slogan">Come and get your coffee</h1>
         </div>
     </aside>
 
